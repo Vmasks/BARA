@@ -1,0 +1,7 @@
+/Library
+/Temp
+/Logs
+/UserSettings
+*.csproj
+*.log
+.vs/ReGame_Gym/v16/.suo

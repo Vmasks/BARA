@@ -1,0 +1,4060 @@
+fileFormatVersion: 2
+guid: 8c3cb0b1acb57754a9b722ad220c13c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5376386732290960446
+    second: Office_walls_floors_48x48_0
+  - first:
+      213: 3485661430043569583
+    second: Office_walls_floors_48x48_1
+  - first:
+      213: -5630733792378886125
+    second: Office_walls_floors_48x48_2
+  - first:
+      213: -6228736035290394571
+    second: Office_walls_floors_48x48_3
+  - first:
+      213: -9067899213145278504
+    second: Office_walls_floors_48x48_4
+  - first:
+      213: 3319010174771385203
+    second: Office_walls_floors_48x48_5
+  - first:
+      213: -7518948011608130459
+    second: Office_walls_floors_48x48_6
+  - first:
+      213: 7123131534477583264
+    second: Office_walls_floors_48x48_7
+  - first:
+      213: 7819359074411303745
+    second: Office_walls_floors_48x48_8
+  - first:
+      213: 8144930076163883543
+    second: Office_walls_floors_48x48_9
+  - first:
+      213: -1866203578775974180
+    second: Office_walls_floors_48x48_10
+  - first:
+      213: 3824234244086383835
+    second: Office_walls_floors_48x48_11
+  - first:
+      213: -6793496872151408225
+    second: Office_walls_floors_48x48_12
+  - first:
+      213: 4740755390431970779
+    second: Office_walls_floors_48x48_13
+  - first:
+      213: 5794980733238480732
+    second: Office_walls_floors_48x48_14
+  - first:
+      213: 6035834703948200486
+    second: Office_walls_floors_48x48_15
+  - first:
+      213: -4875467123477444260
+    second: Office_walls_floors_48x48_16
+  - first:
+      213: -6581517296599670881
+    second: Office_walls_floors_48x48_17
+  - first:
+      213: -2780677514196078171
+    second: Office_walls_floors_48x48_18
+  - first:
+      213: -2080691165281802760
+    second: Office_walls_floors_48x48_19
+  - first:
+      213: 6571792888977881342
+    second: Office_walls_floors_48x48_20
+  - first:
+      213: -4705813362416555518
+    second: Office_walls_floors_48x48_21
+  - first:
+      213: 1913510556251652665
+    second: Office_walls_floors_48x48_22
+  - first:
+      213: 5819733019399095322
+    second: Office_walls_floors_48x48_23
+  - first:
+      213: -7286551589401162602
+    second: Office_walls_floors_48x48_24
+  - first:
+      213: 7071354132630056536
+    second: Office_walls_floors_48x48_25
+  - first:
+      213: -932474603916889318
+    second: Office_walls_floors_48x48_26
+  - first:
+      213: 4454498421050101517
+    second: Office_walls_floors_48x48_27
+  - first:
+      213: -2602065220806228211
+    second: Office_walls_floors_48x48_28
+  - first:
+      213: -6978838951106466777
+    second: Office_walls_floors_48x48_29
+  - first:
+      213: -1657460123478013061
+    second: Office_walls_floors_48x48_30
+  - first:
+      213: 3778835670084922905
+    second: Office_walls_floors_48x48_31
+  - first:
+      213: -3420723226243361027
+    second: Office_walls_floors_48x48_32
+  - first:
+      213: 4159619769043587315
+    second: Office_walls_floors_48x48_33
+  - first:
+      213: -2182012397609608506
+    second: Office_walls_floors_48x48_34
+  - first:
+      213: -2003055142266692199
+    second: Office_walls_floors_48x48_35
+  - first:
+      213: -5802869522123893339
+    second: Office_walls_floors_48x48_36
+  - first:
+      213: -2991216910953704353
+    second: Office_walls_floors_48x48_37
+  - first:
+      213: -888284663864379348
+    second: Office_walls_floors_48x48_38
+  - first:
+      213: -1449672540944384934
+    second: Office_walls_floors_48x48_39
+  - first:
+      213: -3119218200321527453
+    second: Office_walls_floors_48x48_40
+  - first:
+      213: -2864255244217459527
+    second: Office_walls_floors_48x48_41
+  - first:
+      213: 2875820128370382280
+    second: Office_walls_floors_48x48_42
+  - first:
+      213: -4830012697273195059
+    second: Office_walls_floors_48x48_43
+  - first:
+      213: -6029262120823916053
+    second: Office_walls_floors_48x48_44
+  - first:
+      213: -2157865389996439255
+    second: Office_walls_floors_48x48_45
+  - first:
+      213: 3821120497622483080
+    second: Office_walls_floors_48x48_46
+  - first:
+      213: -8561699671872303814
+    second: Office_walls_floors_48x48_47
+  - first:
+      213: 2542711227355173626
+    second: Office_walls_floors_48x48_48
+  - first:
+      213: -4667226085169570045
+    second: Office_walls_floors_48x48_49
+  - first:
+      213: 9114120712129949104
+    second: Office_walls_floors_48x48_50
+  - first:
+      213: -4283258882843682830
+    second: Office_walls_floors_48x48_51
+  - first:
+      213: 7312906488798684819
+    second: Office_walls_floors_48x48_52
+  - first:
+      213: 6203131340689855149
+    second: Office_walls_floors_48x48_53
+  - first:
+      213: 3943343378125818930
+    second: Office_walls_floors_48x48_54
+  - first:
+      213: -4505490510890583831
+    second: Office_walls_floors_48x48_55
+  - first:
+      213: -5993404056171650359
+    second: Office_walls_floors_48x48_56
+  - first:
+      213: -7552575928263074687
+    second: Office_walls_floors_48x48_57
+  - first:
+      213: -1646068298790863857
+    second: Office_walls_floors_48x48_58
+  - first:
+      213: 8276470627983565476
+    second: Office_walls_floors_48x48_59
+  - first:
+      213: -6945719387827447403
+    second: Office_walls_floors_48x48_60
+  - first:
+      213: -6223772411220189099
+    second: Office_walls_floors_48x48_61
+  - first:
+      213: -7132331657803662113
+    second: Office_walls_floors_48x48_62
+  - first:
+      213: 4486850185168539595
+    second: Office_walls_floors_48x48_63
+  - first:
+      213: -9065564709099283764
+    second: Office_walls_floors_48x48_64
+  - first:
+      213: 6890958659716913082
+    second: Office_walls_floors_48x48_65
+  - first:
+      213: 4136917567840930378
+    second: Office_walls_floors_48x48_66
+  - first:
+      213: -1229524436044374030
+    second: Office_walls_floors_48x48_67
+  - first:
+      213: 6482824447972544927
+    second: Office_walls_floors_48x48_68
+  - first:
+      213: 3299664862275632849
+    second: Office_walls_floors_48x48_69
+  - first:
+      213: -2470563188958083429
+    second: Office_walls_floors_48x48_70
+  - first:
+      213: -520206042869258489
+    second: Office_walls_floors_48x48_71
+  - first:
+      213: -4748636180562917357
+    second: Office_walls_floors_48x48_72
+  - first:
+      213: 1408883111481847192
+    second: Office_walls_floors_48x48_73
+  - first:
+      213: 2947494534392387434
+    second: Office_walls_floors_48x48_74
+  - first:
+      213: 1526359696824209924
+    second: Office_walls_floors_48x48_75
+  - first:
+      213: -5779994574655477797
+    second: Office_walls_floors_48x48_76
+  - first:
+      213: 787710223419866585
+    second: Office_walls_floors_48x48_77
+  - first:
+      213: -3253000522714928345
+    second: Office_walls_floors_48x48_78
+  - first:
+      213: 2918356961844690414
+    second: Office_walls_floors_48x48_79
+  - first:
+      213: 576887467829343385
+    second: Office_walls_floors_48x48_80
+  - first:
+      213: -2745105605402884760
+    second: Office_walls_floors_48x48_81
+  - first:
+      213: -201584368290127802
+    second: Office_walls_floors_48x48_82
+  - first:
+      213: 5470613631862920491
+    second: Office_walls_floors_48x48_83
+  - first:
+      213: -3987113761860106001
+    second: Office_walls_floors_48x48_84
+  - first:
+      213: -3962620317777851851
+    second: Office_walls_floors_48x48_85
+  - first:
+      213: -6161996883544984751
+    second: Office_walls_floors_48x48_86
+  - first:
+      213: 8518545647514692694
+    second: Office_walls_floors_48x48_87
+  - first:
+      213: 3419967521724332510
+    second: Office_walls_floors_48x48_88
+  - first:
+      213: 2051467951398794212
+    second: Office_walls_floors_48x48_89
+  - first:
+      213: 5791893655717572925
+    second: Office_walls_floors_48x48_90
+  - first:
+      213: -2021671591753964746
+    second: Office_walls_floors_48x48_91
+  - first:
+      213: -1051972358253153312
+    second: Office_walls_floors_48x48_92
+  - first:
+      213: -8432192497698621452
+    second: Office_walls_floors_48x48_93
+  - first:
+      213: 7838599715615934013
+    second: Office_walls_floors_48x48_94
+  - first:
+      213: -4303580302858191524
+    second: Office_walls_floors_48x48_95
+  - first:
+      213: 2434129701859556659
+    second: Office_walls_floors_48x48_96
+  - first:
+      213: -4351247046183356445
+    second: Office_walls_floors_48x48_97
+  - first:
+      213: -7748081614952497250
+    second: Office_walls_floors_48x48_98
+  - first:
+      213: -8505148151394884721
+    second: Office_walls_floors_48x48_99
+  - first:
+      213: -7273354047746568316
+    second: Office_walls_floors_48x48_100
+  - first:
+      213: -3309025870024526136
+    second: Office_walls_floors_48x48_101
+  - first:
+      213: 4721421051299403057
+    second: Office_walls_floors_48x48_102
+  - first:
+      213: -352653808809315744
+    second: Office_walls_floors_48x48_103
+  - first:
+      213: 8346307407400169413
+    second: Office_walls_floors_48x48_104
+  - first:
+      213: -3348551941610871815
+    second: Office_walls_floors_48x48_105
+  - first:
+      213: -5234172455527947718
+    second: Office_walls_floors_48x48_106
+  - first:
+      213: -7026035659836075836
+    second: Office_walls_floors_48x48_107
+  - first:
+      213: -3367973577422209807
+    second: Office_walls_floors_48x48_108
+  - first:
+      213: 5994833099325702784
+    second: Office_walls_floors_48x48_109
+  - first:
+      213: -2361134207034753873
+    second: Office_walls_floors_48x48_110
+  - first:
+      213: 4909769540569979763
+    second: Office_walls_floors_48x48_111
+  - first:
+      213: 5210972218610531939
+    second: Office_walls_floors_48x48_112
+  - first:
+      213: -7782987038950023442
+    second: Office_walls_floors_48x48_113
+  - first:
+      213: 2715596929864583324
+    second: Office_walls_floors_48x48_114
+  - first:
+      213: 5671957313814488108
+    second: Office_walls_floors_48x48_115
+  - first:
+      213: -8536739628123479820
+    second: Office_walls_floors_48x48_116
+  - first:
+      213: -344993967823694906
+    second: Office_walls_floors_48x48_117
+  - first:
+      213: -3419574551584072029
+    second: Office_walls_floors_48x48_118
+  - first:
+      213: 58759267402610878
+    second: Office_walls_floors_48x48_119
+  - first:
+      213: 7826442290241246451
+    second: Office_walls_floors_48x48_120
+  - first:
+      213: -3754542170918707882
+    second: Office_walls_floors_48x48_121
+  - first:
+      213: -431926387241068910
+    second: Office_walls_floors_48x48_122
+  - first:
+      213: 3378065281045356793
+    second: Office_walls_floors_48x48_123
+  - first:
+      213: 4867271945528529079
+    second: Office_walls_floors_48x48_124
+  - first:
+      213: -1546391512459287445
+    second: Office_walls_floors_48x48_125
+  - first:
+      213: 5681195929140513288
+    second: Office_walls_floors_48x48_126
+  - first:
+      213: 5391042777648009580
+    second: Office_walls_floors_48x48_127
+  - first:
+      213: 45728690877361087
+    second: Office_walls_floors_48x48_128
+  - first:
+      213: 8046387345679571228
+    second: Office_walls_floors_48x48_129
+  - first:
+      213: -2540035352437920733
+    second: Office_walls_floors_48x48_130
+  - first:
+      213: 8137387098084670721
+    second: Office_walls_floors_48x48_131
+  - first:
+      213: 6624585052691790907
+    second: Office_walls_floors_48x48_132
+  - first:
+      213: 3595110781892733990
+    second: Office_walls_floors_48x48_133
+  - first:
+      213: 7048242044761205579
+    second: Office_walls_floors_48x48_134
+  - first:
+      213: 967460975861909558
+    second: Office_walls_floors_48x48_135
+  - first:
+      213: -6577387456026319609
+    second: Office_walls_floors_48x48_136
+  - first:
+      213: -902408141824803003
+    second: Office_walls_floors_48x48_137
+  - first:
+      213: -720470326007147897
+    second: Office_walls_floors_48x48_138
+  - first:
+      213: 7733224731082391040
+    second: Office_walls_floors_48x48_139
+  - first:
+      213: -7381544315812142604
+    second: Office_walls_floors_48x48_140
+  - first:
+      213: 400688909654672901
+    second: Office_walls_floors_48x48_141
+  - first:
+      213: 920040947185842988
+    second: Office_walls_floors_48x48_142
+  - first:
+      213: -4804440019798116973
+    second: Office_walls_floors_48x48_143
+  - first:
+      213: 1997368893586587507
+    second: Office_walls_floors_48x48_144
+  - first:
+      213: -5371873074304070891
+    second: Office_walls_floors_48x48_145
+  - first:
+      213: 7252534390027641404
+    second: Office_walls_floors_48x48_146
+  - first:
+      213: 3343763913376797719
+    second: Office_walls_floors_48x48_147
+  - first:
+      213: -3358669219142656757
+    second: Office_walls_floors_48x48_148
+  - first:
+      213: -8521586356289147705
+    second: Office_walls_floors_48x48_149
+  - first:
+      213: -3954680839597108213
+    second: Office_walls_floors_48x48_150
+  - first:
+      213: -2189406514531060584
+    second: Office_walls_floors_48x48_151
+  - first:
+      213: 1815559544791872713
+    second: Office_walls_floors_48x48_152
+  - first:
+      213: -7834117302419459830
+    second: Office_walls_floors_48x48_153
+  - first:
+      213: -5160766934171913197
+    second: Office_walls_floors_48x48_154
+  - first:
+      213: 1181485627611045897
+    second: Office_walls_floors_48x48_155
+  - first:
+      213: 5778006218010204132
+    second: Office_walls_floors_48x48_156
+  - first:
+      213: -3067970230594429053
+    second: Office_walls_floors_48x48_157
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c39ca690cc3365b0800000000000000
+      internalID: -5376386732290960446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fade6015a9e8f5030800000000000000
+      internalID: 3485661430043569583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318e770e27d9bd1b0800000000000000
+      internalID: -5630733792378886125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53057d0c3951f89a0800000000000000
+      internalID: -6228736035290394571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_4
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d77e6d95b9582280800000000000000
+      internalID: -9067899213145278504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_5
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373d7294b2e7f0e20800000000000000
+      internalID: 3319010174771385203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cb77bde9457a790800000000000000
+      internalID: -7518948011608130459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_7
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a36be004627ad260800000000000000
+      internalID: 7123131534477583264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_8
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143538146a1f38c60800000000000000
+      internalID: 7819359074411303745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712c42620ca980170800000000000000
+      internalID: 8144930076163883543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdece709bb9e916e0800000000000000
+      internalID: -1866203578775974180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd447a888c8621530800000000000000
+      internalID: 3824234244086383835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9120b89696a8b1a0800000000000000
+      internalID: -6793496872151408225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_13
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd547b5f8eb8ac140800000000000000
+      internalID: 4740755390431970779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f89e41648eb6050800000000000000
+      internalID: 5794980733238480732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62abecb1fa793c350800000000000000
+      internalID: 6035834703948200486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_16
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5908078b7cd65cb0800000000000000
+      internalID: -4875467123477444260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_17
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f561d93e0c9a4a0800000000000000
+      internalID: -6581517296599670881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_18
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a13d63988c0969d0800000000000000
+      internalID: -2780677514196078171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_19
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5a51eb866ef13e0800000000000000
+      internalID: -2080691165281802760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_20
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8f6fc40d2b33b50800000000000000
+      internalID: 6571792888977881342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_21
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20aefd9eda791beb0800000000000000
+      internalID: -4705813362416555518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_22
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932075376b72e8a10800000000000000
+      internalID: 1913510556251652665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_23
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1405ecc858d3c050800000000000000
+      internalID: 5819733019399095322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_24
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c8f2c6fe7f0ea90800000000000000
+      internalID: -7286551589401162602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_25
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ea7643e1f722260800000000000000
+      internalID: 7071354132630056536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13f577c94f2f03f0800000000000000
+      internalID: -932474603916889318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0fca3786be81dd30800000000000000
+      internalID: 4454498421050101517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_28
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07427fc77b93ebd0800000000000000
+      internalID: -2602065220806228211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_29
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ca3ae03fe262f90800000000000000
+      internalID: -6978838951106466777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bc7be9cc48ff8e0800000000000000
+      internalID: -1657460123478013061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91eacf3550f117430800000000000000
+      internalID: 3778835670084922905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_32
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df616d879562780d0800000000000000
+      internalID: -3420723226243361027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_33
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0198e2420f9b930800000000000000
+      internalID: 4159619769043587315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca1bf0094fe7b1e0800000000000000
+      internalID: -2182012397609608506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_35
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d9ca3f5f7b334e0800000000000000
+      internalID: -2003055142266692199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a55ddf1ae0187fa0800000000000000
+      internalID: -5802869522123893339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_37
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54967051101d76d0800000000000000
+      internalID: -2991216910953704353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_38
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28bfe6fdcd2ca3f0800000000000000
+      internalID: -888284663864379348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_39
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c3f54318ab1ebe0800000000000000
+      internalID: -1449672540944384934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_40
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361f6e8b29f46b4d0800000000000000
+      internalID: -3119218200321527453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_41
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc5e56e70f1048d0800000000000000
+      internalID: -2864255244217459527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c55f658b27f8e720800000000000000
+      internalID: 2875820128370382280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_43
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5a766da0958fcb0800000000000000
+      internalID: -4830012697273195059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_44
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be97296ab02c35ca0800000000000000
+      internalID: -6029262120823916053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_45
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92907245cd8bd02e0800000000000000
+      internalID: -2157865389996439255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88080c0f8d8570530800000000000000
+      internalID: 3821120497622483080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_47
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d0970a28bbe2980800000000000000
+      internalID: -8561699671872303814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_48
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af217e0b366894320800000000000000
+      internalID: 2542711227355173626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_49
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fd7038a9eaa3fb0800000000000000
+      internalID: -4667226085169570045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd298ebf7cdb7e70800000000000000
+      internalID: 9114120712129949104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_51
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7d01f5dbece84c0800000000000000
+      internalID: -4283258882843682830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_52
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396ae74c4b9ac7560800000000000000
+      internalID: 7312906488798684819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_53
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da259e8b613f51650800000000000000
+      internalID: 6203131340689855149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_54
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c0490e8e199b630800000000000000
+      internalID: 3943343378125818930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_55
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8397f50484971c0800000000000000
+      internalID: -4505490510890583831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_56
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2e08ce3c623dca0800000000000000
+      internalID: -5993404056171650359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_57
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c96b0653cdf2790800000000000000
+      internalID: -7552575928263074687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cf98e7a9df729e0800000000000000
+      internalID: -1646068298790863857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_59
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a22aee7f2eebd270800000000000000
+      internalID: 8276470627983565476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_60
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599500b4409db9f90800000000000000
+      internalID: -6945719387827447403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_61
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550285a87f7b0a9a0800000000000000
+      internalID: -6223772411220189099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_62
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcf65c552ed40d90800000000000000
+      internalID: -7132331657803662113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfcd57987e744e30800000000000000
+      internalID: 4486850185168539595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_64
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccad1d1bde4a03280800000000000000
+      internalID: -9065564709099283764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_65
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab71452246a91af50800000000000000
+      internalID: 6890958659716913082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_66
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a4b301c98496930800000000000000
+      internalID: 4136917567840930378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_67
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff99ea2a0adfeee0800000000000000
+      internalID: -1229524436044374030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_68
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f911f9aec7e97f950800000000000000
+      internalID: 6482824447972544927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_69
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1def6c9b5b3cacd20800000000000000
+      internalID: 3299664862275632849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_70
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b964ff68edbc6bdd0800000000000000
+      internalID: -2470563188958083429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70724c43c5bd7c8f0800000000000000
+      internalID: -520206042869258489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_72
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318caf99d84791eb0800000000000000
+      internalID: -4748636180562917357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_73
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d2ceda9bb5d8310800000000000000
+      internalID: 1408883111481847192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_74
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a671ddb99aa97e820800000000000000
+      internalID: 2947494534392387434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_75
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4021ea8ae08be2510800000000000000
+      internalID: 1526359696824209924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_76
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7a9fdde8559cfa0800000000000000
+      internalID: -5779994574655477797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_77
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd72e456428eea00800000000000000
+      internalID: 787710223419866585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_78
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72baa6d72450bd2d0800000000000000
+      internalID: -3253000522714928345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_79
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed7a86d136108820800000000000000
+      internalID: 2918356961844690414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_80
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994b7537814810800800000000000000
+      internalID: 576887467829343385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_81
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865070ffefc67e9d0800000000000000
+      internalID: -2745105605402884760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_82
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640abc7c514d33df0800000000000000
+      internalID: -201584368290127802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_83
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2559961d168beb40800000000000000
+      internalID: 5470613631862920491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_84
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8c141882deaa8c0800000000000000
+      internalID: -3987113761860106001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_85
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a0b1bd0d1f109c0800000000000000
+      internalID: -3962620317777851851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_86
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153bc396b703c7aa0800000000000000
+      internalID: -6161996883544984751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_87
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c201b1224f73670800000000000000
+      internalID: 8518545647514692694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_88
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed970cb575a267f20800000000000000
+      internalID: 3419967521724332510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_89
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3393f8b37487c10800000000000000
+      internalID: 2051467951398794212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_90
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3172e5d790f06050800000000000000
+      internalID: 5791893655717572925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_91
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633a109066491f3e0800000000000000
+      internalID: -2021671591753964746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_92
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e37ac8b6b4a661f0800000000000000
+      internalID: -1051972358253153312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_93
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7b5f85995dafa80800000000000000
+      internalID: -8432192497698621452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_94
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3604c129ec48cc60800000000000000
+      internalID: 7838599715615934013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_95
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5df4c1148c9644c0800000000000000
+      internalID: -4303580302858191524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_96
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33df0983114c7c120800000000000000
+      internalID: 2434129701859556659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_97
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7f54a8dd34d93c0800000000000000
+      internalID: -4351247046183356445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_98
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f750282d8497490800000000000000
+      internalID: -7748081614952497250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_99
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83a90a81d4a7f980800000000000000
+      internalID: -8505148151394884721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_100
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f8a6a870bdf0b90800000000000000
+      internalID: -7273354047746568316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_101
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c63c90d08af312d0800000000000000
+      internalID: -3309025870024526136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_102
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13590c55e6bd58140800000000000000
+      internalID: 4721421051299403057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_103
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0627b35ba3f1b1bf0800000000000000
+      internalID: -352653808809315744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_104
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf6c4ccd5a04d370800000000000000
+      internalID: 8346307407400169413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_105
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3e65020cd8781d0800000000000000
+      internalID: -3348551941610871815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_106
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a326f1f22eb7c57b0800000000000000
+      internalID: -5234172455527947718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_107
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c05e3cfac18e7e90800000000000000
+      internalID: -7026035659836075836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_108
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcf8d820ed8241d0800000000000000
+      internalID: -3367973577422209807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_109
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082001d11fce13350800000000000000
+      internalID: 5994833099325702784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_110
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac7ba2d2f09b3fd0800000000000000
+      internalID: -2361134207034753873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_111
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bd4b25261032440800000000000000
+      internalID: 4909769540569979763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_112
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36eb5b8bf97115840800000000000000
+      internalID: 5210972218610531939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_113
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee1aeb26864df390800000000000000
+      internalID: -7782987038950023442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_114
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9848b5150dbfa520800000000000000
+      internalID: 2715596929864583324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_115
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2467172027d6be40800000000000000
+      internalID: 5671957313814488108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_116
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f023bda988678980800000000000000
+      internalID: -8536739628123479820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_117
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3573a60d5563bf0800000000000000
+      internalID: -344993967823694906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_118
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae9dd1201b3b80d0800000000000000
+      internalID: -3419574551584072029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_119
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb87bcc0e31c0d000800000000000000
+      internalID: 58759267402610878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_120
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f49ce4fbcb1d9c60800000000000000
+      internalID: 7826442290241246451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_121
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d9a28b9cf25ebc0800000000000000
+      internalID: -3754542170918707882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_122
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296d06f3d3d710af0800000000000000
+      internalID: -431926387241068910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_123
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0e9c0b97c41ee20800000000000000
+      internalID: 3378065281045356793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_124
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0d37aeb060c8340800000000000000
+      internalID: 4867271945528529079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_125
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b646f20dc1d1a8ae0800000000000000
+      internalID: -1546391512459287445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_126
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ac0d7e899a7de40800000000000000
+      internalID: 5681195929140513288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_127
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6115a2e7d4d0da40800000000000000
+      internalID: 5391042777648009580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_128
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbe9c7800672a000800000000000000
+      internalID: 45728690877361087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_129
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19dd68c8a28aaf60800000000000000
+      internalID: 8046387345679571228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_130
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ce00dfd4bffbcd0800000000000000
+      internalID: -2540035352437920733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_131
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10dfe25b37ecde070800000000000000
+      internalID: 8137387098084670721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_132
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c7e02c1014feb50800000000000000
+      internalID: 6624585052691790907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_133
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ca4ea553664e130800000000000000
+      internalID: 3595110781892733990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_134
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4be6f8ebc260d160800000000000000
+      internalID: 7048242044761205579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_135
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6384d48b1ac1d6d00800000000000000
+      internalID: 967460975861909558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_136
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705e07d05fc68b4a0800000000000000
+      internalID: -6577387456026319609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_137
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fbc1083900a73f0800000000000000
+      internalID: -902408141824803003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_138
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78252234e006006f0800000000000000
+      internalID: -720470326007147897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_139
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e7e68abeee15b60800000000000000
+      internalID: 7733224731082391040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_140
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1a63acd8c7f8990800000000000000
+      internalID: -7381544315812142604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_141
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506c76db0788f8500800000000000000
+      internalID: 400688909654672901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_142
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b73dbed54a4cc00800000000000000
+      internalID: 920040947185842988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_143
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395334bc143335db0800000000000000
+      internalID: -4804440019798116973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_144
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37fb4ab1d6418bb10800000000000000
+      internalID: 1997368893586587507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_145
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bce9b76e54375b0800000000000000
+      internalID: -5371873074304070891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_146
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32e6e62a9d26a460800000000000000
+      internalID: 7252534390027641404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_147
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714189d209f676e20800000000000000
+      internalID: 3343763913376797719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_148
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d96f2e32c9361d0800000000000000
+      internalID: -3358669219142656757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_149
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cce196bb5e3db980800000000000000
+      internalID: -8521586356289147705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_150
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0455cbaab62e19c0800000000000000
+      internalID: -3954680839597108213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_151
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8943370006aad91e0800000000000000
+      internalID: -2189406514531060584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_152
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4b3e769c9223910800000000000000
+      internalID: 1815559544791872713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_153
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01fb8402df974390800000000000000
+      internalID: -7834117302419459830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_154
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314f918f0d54168b0800000000000000
+      internalID: -5160766934171913197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_155
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9006cf42bea756010800000000000000
+      internalID: 1181485627611045897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_156
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e71f76ca0a9f2050800000000000000
+      internalID: 5778006218010204132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office_walls_floors_48x48_157
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f12ff74516c65d0800000000000000
+      internalID: -3067970230594429053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Office_walls_floors_48x48_140: -7381544315812142604
+      Office_walls_floors_48x48_85: -3962620317777851851
+      Office_walls_floors_48x48_7: 7123131534477583264
+      Office_walls_floors_48x48_151: -2189406514531060584
+      Office_walls_floors_48x48_138: -720470326007147897
+      Office_walls_floors_48x48_135: 967460975861909558
+      Office_walls_floors_48x48_125: -1546391512459287445
+      Office_walls_floors_48x48_24: -7286551589401162602
+      Office_walls_floors_48x48_68: 6482824447972544927
+      Office_walls_floors_48x48_142: 920040947185842988
+      Office_walls_floors_48x48_146: 7252534390027641404
+      Office_walls_floors_48x48_86: -6161996883544984751
+      Office_walls_floors_48x48_105: -3348551941610871815
+      Office_walls_floors_48x48_107: -7026035659836075836
+      Office_walls_floors_48x48_94: 7838599715615934013
+      Office_walls_floors_48x48_10: -1866203578775974180
+      Office_walls_floors_48x48_63: 4486850185168539595
+      Office_walls_floors_48x48_119: 58759267402610878
+      Office_walls_floors_48x48_4: -9067899213145278504
+      Office_walls_floors_48x48_82: -201584368290127802
+      Office_walls_floors_48x48_116: -8536739628123479820
+      Office_walls_floors_48x48_90: 5791893655717572925
+      Office_walls_floors_48x48_110: -2361134207034753873
+      Office_walls_floors_48x48_8: 7819359074411303745
+      Office_walls_floors_48x48_38: -888284663864379348
+      Office_walls_floors_48x48_35: -2003055142266692199
+      Office_walls_floors_48x48_36: -5802869522123893339
+      Office_walls_floors_48x48_104: 8346307407400169413
+      Office_walls_floors_48x48_5: 3319010174771385203
+      Office_walls_floors_48x48_53: 6203131340689855149
+      Office_walls_floors_48x48_112: 5210972218610531939
+      Office_walls_floors_48x48_49: -4667226085169570045
+      Office_walls_floors_48x48_75: 1526359696824209924
+      Office_walls_floors_48x48_62: -7132331657803662113
+      Office_walls_floors_48x48_117: -344993967823694906
+      Office_walls_floors_48x48_150: -3954680839597108213
+      Office_walls_floors_48x48_9: 8144930076163883543
+      Office_walls_floors_48x48_128: 45728690877361087
+      Office_walls_floors_48x48_149: -8521586356289147705
+      Office_walls_floors_48x48_32: -3420723226243361027
+      Office_walls_floors_48x48_54: 3943343378125818930
+      Office_walls_floors_48x48_78: -3253000522714928345
+      Office_walls_floors_48x48_143: -4804440019798116973
+      Office_walls_floors_48x48_81: -2745105605402884760
+      Office_walls_floors_48x48_77: 787710223419866585
+      Office_walls_floors_48x48_95: -4303580302858191524
+      Office_walls_floors_48x48_109: 5994833099325702784
+      Office_walls_floors_48x48_6: -7518948011608130459
+      Office_walls_floors_48x48_87: 8518545647514692694
+      Office_walls_floors_48x48_153: -7834117302419459830
+      Office_walls_floors_48x48_88: 3419967521724332510
+      Office_walls_floors_48x48_19: -2080691165281802760
+      Office_walls_floors_48x48_48: 2542711227355173626
+      Office_walls_floors_48x48_65: 6890958659716913082
+      Office_walls_floors_48x48_58: -1646068298790863857
+      Office_walls_floors_48x48_16: -4875467123477444260
+      Office_walls_floors_48x48_93: -8432192497698621452
+      Office_walls_floors_48x48_47: -8561699671872303814
+      Office_walls_floors_48x48_13: 4740755390431970779
+      Office_walls_floors_48x48_46: 3821120497622483080
+      Office_walls_floors_48x48_103: -352653808809315744
+      Office_walls_floors_48x48_99: -8505148151394884721
+      Office_walls_floors_48x48_111: 4909769540569979763
+      Office_walls_floors_48x48_37: -2991216910953704353
+      Office_walls_floors_48x48_51: -4283258882843682830
+      Office_walls_floors_48x48_126: 5681195929140513288
+      Office_walls_floors_48x48_130: -2540035352437920733
+      Office_walls_floors_48x48_33: 4159619769043587315
+      Office_walls_floors_48x48_120: 7826442290241246451
+      Office_walls_floors_48x48_25: 7071354132630056536
+      Office_walls_floors_48x48_73: 1408883111481847192
+      Office_walls_floors_48x48_139: 7733224731082391040
+      Office_walls_floors_48x48_15: 6035834703948200486
+      Office_walls_floors_48x48_141: 400688909654672901
+      Office_walls_floors_48x48_154: -5160766934171913197
+      Office_walls_floors_48x48_3: -6228736035290394571
+      Office_walls_floors_48x48_100: -7273354047746568316
+      Office_walls_floors_48x48_29: -6978838951106466777
+      Office_walls_floors_48x48_71: -520206042869258489
+      Office_walls_floors_48x48_72: -4748636180562917357
+      Office_walls_floors_48x48_83: 5470613631862920491
+      Office_walls_floors_48x48_133: 3595110781892733990
+      Office_walls_floors_48x48_84: -3987113761860106001
+      Office_walls_floors_48x48_118: -3419574551584072029
+      Office_walls_floors_48x48_122: -431926387241068910
+      Office_walls_floors_48x48_148: -3358669219142656757
+      Office_walls_floors_48x48_115: 5671957313814488108
+      Office_walls_floors_48x48_2: -5630733792378886125
+      Office_walls_floors_48x48_42: 2875820128370382280
+      Office_walls_floors_48x48_61: -6223772411220189099
+      Office_walls_floors_48x48_96: 2434129701859556659
+      Office_walls_floors_48x48_152: 1815559544791872713
+      Office_walls_floors_48x48_41: -2864255244217459527
+      Office_walls_floors_48x48_1: 3485661430043569583
+      Office_walls_floors_48x48_56: -5993404056171650359
+      Office_walls_floors_48x48_69: 3299664862275632849
+      Office_walls_floors_48x48_14: 5794980733238480732
+      Office_walls_floors_48x48_156: 5778006218010204132
+      Office_walls_floors_48x48_89: 2051467951398794212
+      Office_walls_floors_48x48_137: -902408141824803003
+      Office_walls_floors_48x48_11: 3824234244086383835
+      Office_walls_floors_48x48_18: -2780677514196078171
+      Office_walls_floors_48x48_108: -3367973577422209807
+      Office_walls_floors_48x48_45: -2157865389996439255
+      Office_walls_floors_48x48_134: 7048242044761205579
+      Office_walls_floors_48x48_131: 8137387098084670721
+      Office_walls_floors_48x48_57: -7552575928263074687
+      Office_walls_floors_48x48_0: -5376386732290960446
+      Office_walls_floors_48x48_136: -6577387456026319609
+      Office_walls_floors_48x48_26: -932474603916889318
+      Office_walls_floors_48x48_12: -6793496872151408225
+      Office_walls_floors_48x48_64: -9065564709099283764
+      Office_walls_floors_48x48_147: 3343763913376797719
+      Office_walls_floors_48x48_145: -5371873074304070891
+      Office_walls_floors_48x48_102: 4721421051299403057
+      Office_walls_floors_48x48_20: 6571792888977881342
+      Office_walls_floors_48x48_76: -5779994574655477797
+      Office_walls_floors_48x48_155: 1181485627611045897
+      Office_walls_floors_48x48_30: -1657460123478013061
+      Office_walls_floors_48x48_106: -5234172455527947718
+      Office_walls_floors_48x48_132: 6624585052691790907
+      Office_walls_floors_48x48_55: -4505490510890583831
+      Office_walls_floors_48x48_60: -6945719387827447403
+      Office_walls_floors_48x48_157: -3067970230594429053
+      Office_walls_floors_48x48_98: -7748081614952497250
+      Office_walls_floors_48x48_52: 7312906488798684819
+      Office_walls_floors_48x48_34: -2182012397609608506
+      Office_walls_floors_48x48_113: -7782987038950023442
+      Office_walls_floors_48x48_97: -4351247046183356445
+      Office_walls_floors_48x48_124: 4867271945528529079
+      Office_walls_floors_48x48_144: 1997368893586587507
+      Office_walls_floors_48x48_67: -1229524436044374030
+      Office_walls_floors_48x48_17: -6581517296599670881
+      Office_walls_floors_48x48_43: -4830012697273195059
+      Office_walls_floors_48x48_79: 2918356961844690414
+      Office_walls_floors_48x48_121: -3754542170918707882
+      Office_walls_floors_48x48_59: 8276470627983565476
+      Office_walls_floors_48x48_92: -1051972358253153312
+      Office_walls_floors_48x48_21: -4705813362416555518
+      Office_walls_floors_48x48_27: 4454498421050101517
+      Office_walls_floors_48x48_50: 9114120712129949104
+      Office_walls_floors_48x48_22: 1913510556251652665
+      Office_walls_floors_48x48_114: 2715596929864583324
+      Office_walls_floors_48x48_23: 5819733019399095322
+      Office_walls_floors_48x48_40: -3119218200321527453
+      Office_walls_floors_48x48_101: -3309025870024526136
+      Office_walls_floors_48x48_66: 4136917567840930378
+      Office_walls_floors_48x48_123: 3378065281045356793
+      Office_walls_floors_48x48_91: -2021671591753964746
+      Office_walls_floors_48x48_44: -6029262120823916053
+      Office_walls_floors_48x48_31: 3778835670084922905
+      Office_walls_floors_48x48_28: -2602065220806228211
+      Office_walls_floors_48x48_74: 2947494534392387434
+      Office_walls_floors_48x48_70: -2470563188958083429
+      Office_walls_floors_48x48_129: 8046387345679571228
+      Office_walls_floors_48x48_127: 5391042777648009580
+      Office_walls_floors_48x48_80: 576887467829343385
+      Office_walls_floors_48x48_39: -1449672540944384934
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

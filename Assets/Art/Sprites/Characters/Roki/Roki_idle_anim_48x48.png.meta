@@ -1,0 +1,854 @@
+fileFormatVersion: 2
+guid: 08bb3b8fb5c5c3a40ab4cdcb93301c1f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -375068231139684570
+    second: Roki_idle_anim_48x48_0
+  - first:
+      213: 5390692843143494870
+    second: Roki_idle_anim_48x48_1
+  - first:
+      213: 7582518974768310807
+    second: Roki_idle_anim_48x48_2
+  - first:
+      213: 3726001536438881339
+    second: Roki_idle_anim_48x48_3
+  - first:
+      213: 2509567101158355244
+    second: Roki_idle_anim_48x48_4
+  - first:
+      213: 969061747627482330
+    second: Roki_idle_anim_48x48_5
+  - first:
+      213: 4879212122379850444
+    second: Roki_idle_anim_48x48_6
+  - first:
+      213: -8361543522012824668
+    second: Roki_idle_anim_48x48_7
+  - first:
+      213: 2391446824506185077
+    second: Roki_idle_anim_48x48_8
+  - first:
+      213: -9062355417769642458
+    second: Roki_idle_anim_48x48_9
+  - first:
+      213: 7790511406433446251
+    second: Roki_idle_anim_48x48_10
+  - first:
+      213: 2849624902107318366
+    second: Roki_idle_anim_48x48_11
+  - first:
+      213: -2907230783148294399
+    second: Roki_idle_anim_48x48_12
+  - first:
+      213: 599396516682377939
+    second: Roki_idle_anim_48x48_13
+  - first:
+      213: -862201164263477226
+    second: Roki_idle_anim_48x48_14
+  - first:
+      213: 8342911278419131754
+    second: Roki_idle_anim_48x48_15
+  - first:
+      213: 7279613868080817402
+    second: Roki_idle_anim_48x48_16
+  - first:
+      213: 6653487759915789630
+    second: Roki_idle_anim_48x48_17
+  - first:
+      213: 2181816456430889174
+    second: Roki_idle_anim_48x48_18
+  - first:
+      213: 7519307229216850427
+    second: Roki_idle_anim_48x48_19
+  - first:
+      213: -4043307111426467829
+    second: Roki_idle_anim_48x48_20
+  - first:
+      213: 1711857290850344593
+    second: Roki_idle_anim_48x48_21
+  - first:
+      213: 3593650635146609362
+    second: Roki_idle_anim_48x48_22
+  - first:
+      213: -877643044467819611
+    second: Roki_idle_anim_48x48_23
+  - first:
+      213: -7845261827307299517
+    second: Roki_idle_anim_48x48_0
+  - first:
+      213: 149764197857581879
+    second: Roki_idle_anim_48x48_1
+  - first:
+      213: 6845766902242180852
+    second: Roki_idle_anim_48x48_2
+  - first:
+      213: 8281103518264186683
+    second: Roki_idle_anim_48x48_3
+  - first:
+      213: 1081669544836547084
+    second: Roki_idle_anim_48x48_4
+  - first:
+      213: -296200195560666647
+    second: Roki_idle_anim_48x48_5
+  - first:
+      213: 5401893913377403894
+    second: Roki_idle_anim_48x48_6
+  - first:
+      213: -2136865636543941573
+    second: Roki_idle_anim_48x48_7
+  - first:
+      213: 7821328207410692388
+    second: Roki_idle_anim_48x48_8
+  - first:
+      213: 620039532808174676
+    second: Roki_idle_anim_48x48_9
+  - first:
+      213: -1617618775947290507
+    second: Roki_idle_anim_48x48_10
+  - first:
+      213: 549817936059948240
+    second: Roki_idle_anim_48x48_11
+  - first:
+      213: 1231332222910527452
+    second: Roki_idle_anim_48x48_12
+  - first:
+      213: -6827590957995570394
+    second: Roki_idle_anim_48x48_13
+  - first:
+      213: 8534997114592329234
+    second: Roki_idle_anim_48x48_14
+  - first:
+      213: -3009117960840859554
+    second: Roki_idle_anim_48x48_15
+  - first:
+      213: 8508181648186732209
+    second: Roki_idle_anim_48x48_16
+  - first:
+      213: -3414169365053718856
+    second: Roki_idle_anim_48x48_17
+  - first:
+      213: -7307914709951841157
+    second: Roki_idle_anim_48x48_18
+  - first:
+      213: -8077491544852424601
+    second: Roki_idle_anim_48x48_19
+  - first:
+      213: -94526090937785314
+    second: Roki_idle_anim_48x48_20
+  - first:
+      213: -4794609730116044743
+    second: Roki_idle_anim_48x48_21
+  - first:
+      213: 2509849430824421626
+    second: Roki_idle_anim_48x48_22
+  - first:
+      213: 809441904736964973
+    second: Roki_idle_anim_48x48_23
+  - first:
+      213: -7322921164949376300
+    second: Roki_idle_anim_48x48_24
+  - first:
+      213: -1797937206176439691
+    second: Roki_idle_anim_48x48_25
+  - first:
+      213: -4054144867622837317
+    second: Roki_idle_anim_48x48_26
+  - first:
+      213: -6929423263855155335
+    second: Roki_idle_anim_48x48_27
+  - first:
+      213: 7495005135651120405
+    second: Roki_idle_anim_48x48_28
+  - first:
+      213: 4304547320477120085
+    second: Roki_idle_anim_48x48_29
+  - first:
+      213: 3301791994185095763
+    second: Roki_idle_anim_48x48_30
+  - first:
+      213: 4369947244740016177
+    second: Roki_idle_anim_48x48_31
+  - first:
+      213: -3554831359845072103
+    second: Roki_idle_anim_48x48_32
+  - first:
+      213: 4463593696701059489
+    second: Roki_idle_anim_48x48_33
+  - first:
+      213: -6220913782228761452
+    second: Roki_idle_anim_48x48_34
+  - first:
+      213: 1136492929187578600
+    second: Roki_idle_anim_48x48_35
+  - first:
+      213: -2480539879661025234
+    second: Roki_idle_anim_48x48_36
+  - first:
+      213: 9095832621810805427
+    second: Roki_idle_anim_48x48_37
+  - first:
+      213: -8690213519835497881
+    second: Roki_idle_anim_48x48_38
+  - first:
+      213: 6919145665961411956
+    second: Roki_idle_anim_48x48_39
+  - first:
+      213: 3369595967502174830
+    second: Roki_idle_anim_48x48_40
+  - first:
+      213: 2068842844875531424
+    second: Roki_idle_anim_48x48_41
+  - first:
+      213: 5527390623489748951
+    second: Roki_idle_anim_48x48_42
+  - first:
+      213: -1889558142244311574
+    second: Roki_idle_anim_48x48_43
+  - first:
+      213: -243190553156044908
+    second: Roki_idle_anim_48x48_44
+  - first:
+      213: -5433710852626987369
+    second: Roki_idle_anim_48x48_45
+  - first:
+      213: -7165583465572026781
+    second: Roki_idle_anim_48x48_46
+  - first:
+      213: 7261479640617485993
+    second: Roki_idle_anim_48x48_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Roki_idle_anim_48x48_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d9a6d1fe7002390800000000000000
+      internalID: -375068231139684570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roki_idle_anim_48x48_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b5f559eb1141200800000000000000
+      internalID: 5390692843143494870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roki_idle_anim_48x48_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe75472abc010f50800000000000000
+      internalID: 7582518974768310807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roki_idle_anim_48x48_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37df5256c36ce270800000000000000
+      internalID: 3726001536438881339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roki_idle_anim_48x48_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02475858bcd20f00800000000000000
+      internalID: 2509567101158355244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roki_idle_anim_48x48_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e98431dd7fa3ebf0800000000000000
+      internalID: 969061747627482330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roki_idle_anim_48x48_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3743dc4e167fa40800000000000000
+      internalID: 4879212122379850444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roki_idle_anim_48x48_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b343f0176045852e0800000000000000
+      internalID: -8361543522012824668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roki_idle_anim_48x48_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4210572c090fa8c60800000000000000
+      internalID: 2391446824506185077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roki_idle_anim_48x48_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45cfab38ba2da9800800000000000000
+      internalID: -9062355417769642458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roki_idle_anim_48x48_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578d8a53b401d89e0800000000000000
+      internalID: 7790511406433446251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roki_idle_anim_48x48_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dcddf1ff7851a700800000000000000
+      internalID: 2849624902107318366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roki_idle_anim_48x48_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7f2130222961110800000000000000
+      internalID: -2907230783148294399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roki_idle_anim_48x48_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b4105a2368f31a0800000000000000
+      internalID: 599396516682377939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roki_idle_anim_48x48_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e7246c7a6627670800000000000000
+      internalID: -862201164263477226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roki_idle_anim_48x48_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5035d858277d36d0800000000000000
+      internalID: 8342911278419131754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roki_idle_anim_48x48_16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1beeaa87122231670800000000000000
+      internalID: 7279613868080817402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roki_idle_anim_48x48_17
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 0
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8beb3f03d0f6e90d0800000000000000
+      internalID: 6653487759915789630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roki_idle_anim_48x48_18
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cf7705a42159a90800000000000000
+      internalID: 2181816456430889174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roki_idle_anim_48x48_19
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 0
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76899d08c3cf6ef80800000000000000
+      internalID: 7519307229216850427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roki_idle_anim_48x48_20
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14a5a7650d20bef0800000000000000
+      internalID: -4043307111426467829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roki_idle_anim_48x48_21
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 0
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9383dc77adf167db0800000000000000
+      internalID: 1711857290850344593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roki_idle_anim_48x48_22
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 0
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8810472c6c4d220800000000000000
+      internalID: 3593650635146609362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roki_idle_anim_48x48_23
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 0
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61992eaf17bb3b00800000000000000
+      internalID: -877643044467819611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Roki_idle_anim_48x48_14: -862201164263477226
+      Roki_idle_anim_48x48_2: 7582518974768310807
+      Roki_idle_anim_48x48_11: 2849624902107318366
+      Roki_idle_anim_48x48_10: 7790511406433446251
+      Roki_idle_anim_48x48_23: -877643044467819611
+      Roki_idle_anim_48x48_12: -2907230783148294399
+      Roki_idle_anim_48x48_20: -4043307111426467829
+      Roki_idle_anim_48x48_19: 7519307229216850427
+      Roki_idle_anim_48x48_15: 8342911278419131754
+      Roki_idle_anim_48x48_17: 6653487759915789630
+      Roki_idle_anim_48x48_3: 3726001536438881339
+      Roki_idle_anim_48x48_0: -375068231139684570
+      Roki_idle_anim_48x48_7: -8361543522012824668
+      Roki_idle_anim_48x48_16: 7279613868080817402
+      Roki_idle_anim_48x48_22: 3593650635146609362
+      Roki_idle_anim_48x48_6: 4879212122379850444
+      Roki_idle_anim_48x48_21: 1711857290850344593
+      Roki_idle_anim_48x48_1: 5390692843143494870
+      Roki_idle_anim_48x48_5: 969061747627482330
+      Roki_idle_anim_48x48_4: 2509567101158355244
+      Roki_idle_anim_48x48_8: 2391446824506185077
+      Roki_idle_anim_48x48_9: -9062355417769642458
+      Roki_idle_anim_48x48_13: 599396516682377939
+      Roki_idle_anim_48x48_18: 2181816456430889174
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

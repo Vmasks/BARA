@@ -1,0 +1,782 @@
+fileFormatVersion: 2
+guid: 8172177d788523c488daf472683d844c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1997246146554774934
+    second: Lucy_run_48x48_0
+  - first:
+      213: -209543897435988737
+    second: Lucy_run_48x48_1
+  - first:
+      213: 2286945513642653536
+    second: Lucy_run_48x48_2
+  - first:
+      213: -5437058584123447232
+    second: Lucy_run_48x48_3
+  - first:
+      213: 6847606306144132561
+    second: Lucy_run_48x48_4
+  - first:
+      213: 6123166371570253565
+    second: Lucy_run_48x48_5
+  - first:
+      213: -3052357786866850028
+    second: Lucy_run_48x48_6
+  - first:
+      213: -1082109644571681874
+    second: Lucy_run_48x48_7
+  - first:
+      213: -6495311211784294603
+    second: Lucy_run_48x48_8
+  - first:
+      213: 4751383426727022540
+    second: Lucy_run_48x48_9
+  - first:
+      213: -3320071158799436311
+    second: Lucy_run_48x48_10
+  - first:
+      213: -8602889594319373490
+    second: Lucy_run_48x48_11
+  - first:
+      213: -7011522048720141227
+    second: Lucy_run_48x48_12
+  - first:
+      213: 127246463804065002
+    second: Lucy_run_48x48_13
+  - first:
+      213: -196057326014721971
+    second: Lucy_run_48x48_14
+  - first:
+      213: -9004055572636172151
+    second: Lucy_run_48x48_15
+  - first:
+      213: 1424925888802975904
+    second: Lucy_run_48x48_16
+  - first:
+      213: -1211212681128431423
+    second: Lucy_run_48x48_17
+  - first:
+      213: 2506921398176492528
+    second: Lucy_run_48x48_18
+  - first:
+      213: -4314855578899564781
+    second: Lucy_run_48x48_19
+  - first:
+      213: -4393550235956193895
+    second: Lucy_run_48x48_20
+  - first:
+      213: -8745331594737312499
+    second: Lucy_run_48x48_21
+  - first:
+      213: -1588323957582733235
+    second: Lucy_run_48x48_22
+  - first:
+      213: -1282229446177758716
+    second: Lucy_run_48x48_23
+  - first:
+      213: -214462774991417317
+    second: Lucy_run_48x48_0
+  - first:
+      213: -6018873332950110631
+    second: Lucy_run_48x48_1
+  - first:
+      213: -2297478025472071331
+    second: Lucy_run_48x48_2
+  - first:
+      213: 5649903686153007803
+    second: Lucy_run_48x48_3
+  - first:
+      213: -1980406557166106822
+    second: Lucy_run_48x48_4
+  - first:
+      213: -8137346009930572861
+    second: Lucy_run_48x48_5
+  - first:
+      213: -1254819966018759717
+    second: Lucy_run_48x48_6
+  - first:
+      213: 6304480973618653488
+    second: Lucy_run_48x48_7
+  - first:
+      213: -1013326853897106308
+    second: Lucy_run_48x48_8
+  - first:
+      213: -1811110689041365509
+    second: Lucy_run_48x48_9
+  - first:
+      213: 2691800590349888274
+    second: Lucy_run_48x48_10
+  - first:
+      213: 2298165322320803702
+    second: Lucy_run_48x48_11
+  - first:
+      213: 1025123722442752491
+    second: Lucy_run_48x48_12
+  - first:
+      213: -1951717206738458816
+    second: Lucy_run_48x48_13
+  - first:
+      213: -1517097367176430664
+    second: Lucy_run_48x48_14
+  - first:
+      213: -2360377062767316
+    second: Lucy_run_48x48_15
+  - first:
+      213: -3737678420582493371
+    second: Lucy_run_48x48_16
+  - first:
+      213: 7436926631144990281
+    second: Lucy_run_48x48_17
+  - first:
+      213: -7890514314281761897
+    second: Lucy_run_48x48_18
+  - first:
+      213: -5311029750078584516
+    second: Lucy_run_48x48_19
+  - first:
+      213: -9188150101436727523
+    second: Lucy_run_48x48_20
+  - first:
+      213: 8851312318717361571
+    second: Lucy_run_48x48_21
+  - first:
+      213: 5380592291579100582
+    second: Lucy_run_48x48_22
+  - first:
+      213: 6888329081659010852
+    second: Lucy_run_48x48_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lucy_run_48x48_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10971f0e33160df0800000000000000
+      internalID: 1997246146554774934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucy_run_48x48_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95eef61d79aa87ca0800000000000000
+      internalID: -209543897435988737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucy_run_48x48_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59a87c88e7bd10e0800000000000000
+      internalID: 2286945513642653536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucy_run_48x48_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2f154d77d786e40800000000000000
+      internalID: -5437058584123447232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucy_run_48x48_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3782499abe2484e0800000000000000
+      internalID: 6847606306144132561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucy_run_48x48_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb55afdae6521f80800000000000000
+      internalID: 6123166371570253565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucy_run_48x48_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd35264a3ebf59ee0800000000000000
+      internalID: -3052357786866850028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucy_run_48x48_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039afbdfa040e7750800000000000000
+      internalID: -1082109644571681874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucy_run_48x48_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c49106890ffe1f0800000000000000
+      internalID: -6495311211784294603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucy_run_48x48_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5c6ca8c64add6e0800000000000000
+      internalID: 4751383426727022540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucy_run_48x48_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bedf900623b5520800000000000000
+      internalID: -3320071158799436311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucy_run_48x48_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6777d083f29b4ef10800000000000000
+      internalID: -8602889594319373490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucy_run_48x48_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1c60f1898f93e00800000000000000
+      internalID: -7011522048720141227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucy_run_48x48_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04726568a8b1ae4e0800000000000000
+      internalID: 127246463804065002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucy_run_48x48_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbb4c38bff22fae0800000000000000
+      internalID: -196057326014721971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucy_run_48x48_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2543a3ef3d97fff0800000000000000
+      internalID: -9004055572636172151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucy_run_48x48_16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54399809749112cc0800000000000000
+      internalID: 1424925888802975904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucy_run_48x48_17
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 0
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9462a065e55453760800000000000000
+      internalID: -1211212681128431423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucy_run_48x48_18
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793c91279034f7290800000000000000
+      internalID: 2506921398176492528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucy_run_48x48_19
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 0
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39c803d49e6b46b0800000000000000
+      internalID: -4314855578899564781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucy_run_48x48_20
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ff4e4e9222d7080800000000000000
+      internalID: -4393550235956193895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucy_run_48x48_21
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 0
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3adff2958ad26da70800000000000000
+      internalID: -8745331594737312499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucy_run_48x48_22
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 0
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6adf6cc7e24bbaa40800000000000000
+      internalID: -1588323957582733235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucy_run_48x48_23
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 0
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f2748cdc2489f50800000000000000
+      internalID: -1282229446177758716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Lucy_run_48x48_21: -8745331594737312499
+      Lucy_run_48x48_14: -196057326014721971
+      Lucy_run_48x48_15: -9004055572636172151
+      Lucy_run_48x48_12: -7011522048720141227
+      Lucy_run_48x48_20: -4393550235956193895
+      Lucy_run_48x48_17: -1211212681128431423
+      Lucy_run_48x48_4: 6847606306144132561
+      Lucy_run_48x48_1: -209543897435988737
+      Lucy_run_48x48_0: 1997246146554774934
+      Lucy_run_48x48_22: -1588323957582733235
+      Lucy_run_48x48_10: -3320071158799436311
+      Lucy_run_48x48_8: -6495311211784294603
+      Lucy_run_48x48_18: 2506921398176492528
+      Lucy_run_48x48_3: -5437058584123447232
+      Lucy_run_48x48_7: -1082109644571681874
+      Lucy_run_48x48_11: -8602889594319373490
+      Lucy_run_48x48_16: 1424925888802975904
+      Lucy_run_48x48_19: -4314855578899564781
+      Lucy_run_48x48_2: 2286945513642653536
+      Lucy_run_48x48_5: 6123166371570253565
+      Lucy_run_48x48_23: -1282229446177758716
+      Lucy_run_48x48_13: 127246463804065002
+      Lucy_run_48x48_9: 4751383426727022540
+      Lucy_run_48x48_6: -3052357786866850028
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
