@@ -1,0 +1,2 @@
+init 20 mad
+mad 20 init
