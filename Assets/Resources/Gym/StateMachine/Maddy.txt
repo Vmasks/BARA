@@ -1,0 +1,4 @@
+init Observe angry
+init Talk normal
+angry 5 end
+normal Observe end

@@ -1,0 +1,4 @@
+init Talk normal
+init Observe sad
+normal Talk end
+sad 10 end

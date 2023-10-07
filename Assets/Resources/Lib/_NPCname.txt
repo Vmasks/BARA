@@ -1,0 +1,15 @@
+NPC的列表如下:
+Abby
+Alex
+Amelia
+Ash
+Bob
+Bouncer
+Bruce
+Cleaner
+Dan
+Director
+Edward
+Librarian
+Librarian2
+Pier

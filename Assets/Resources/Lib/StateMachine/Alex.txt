@@ -1,0 +1,4 @@
+init Talk bother
+bother Talk mad
+bother 15 normal
+mad 20 end

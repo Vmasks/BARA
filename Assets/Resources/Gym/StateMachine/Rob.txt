@@ -1,0 +1,3 @@
+init Observe hard
+init Talk end
+hard Observe end

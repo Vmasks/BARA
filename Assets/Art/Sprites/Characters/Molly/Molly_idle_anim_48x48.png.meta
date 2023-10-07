@@ -1,0 +1,854 @@
+fileFormatVersion: 2
+guid: f6dfa6d50fa7a3e41a297fb759edd3b9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3689413810849930048
+    second: Molly_idle_anim_48x48_0
+  - first:
+      213: -3262657108406652563
+    second: Molly_idle_anim_48x48_1
+  - first:
+      213: -4017253989987357853
+    second: Molly_idle_anim_48x48_2
+  - first:
+      213: 3858222242795064319
+    second: Molly_idle_anim_48x48_3
+  - first:
+      213: 2005818160473247673
+    second: Molly_idle_anim_48x48_4
+  - first:
+      213: 4050381447978655712
+    second: Molly_idle_anim_48x48_5
+  - first:
+      213: -724125622304376399
+    second: Molly_idle_anim_48x48_6
+  - first:
+      213: 8171099948997174083
+    second: Molly_idle_anim_48x48_7
+  - first:
+      213: 8268553004579009135
+    second: Molly_idle_anim_48x48_8
+  - first:
+      213: -468169211524109788
+    second: Molly_idle_anim_48x48_9
+  - first:
+      213: 1264551591247850286
+    second: Molly_idle_anim_48x48_10
+  - first:
+      213: 1785170662606219413
+    second: Molly_idle_anim_48x48_11
+  - first:
+      213: 1356656823064890196
+    second: Molly_idle_anim_48x48_12
+  - first:
+      213: 6151757577699336304
+    second: Molly_idle_anim_48x48_13
+  - first:
+      213: -5223824165436987367
+    second: Molly_idle_anim_48x48_14
+  - first:
+      213: 5626244886828246412
+    second: Molly_idle_anim_48x48_15
+  - first:
+      213: -6044887738804062338
+    second: Molly_idle_anim_48x48_16
+  - first:
+      213: 681196751365471921
+    second: Molly_idle_anim_48x48_17
+  - first:
+      213: -8929079789360584696
+    second: Molly_idle_anim_48x48_18
+  - first:
+      213: 6297459938008514720
+    second: Molly_idle_anim_48x48_19
+  - first:
+      213: -4845312946568168549
+    second: Molly_idle_anim_48x48_20
+  - first:
+      213: -354929952942830171
+    second: Molly_idle_anim_48x48_21
+  - first:
+      213: -8616728625829116954
+    second: Molly_idle_anim_48x48_22
+  - first:
+      213: -40108476360729812
+    second: Molly_idle_anim_48x48_23
+  - first:
+      213: -6989875442408926172
+    second: Molly_idle_anim_48x48_0
+  - first:
+      213: -5178524586926929881
+    second: Molly_idle_anim_48x48_1
+  - first:
+      213: -8910462500875783952
+    second: Molly_idle_anim_48x48_2
+  - first:
+      213: 105603481238442238
+    second: Molly_idle_anim_48x48_3
+  - first:
+      213: -6063201713577011254
+    second: Molly_idle_anim_48x48_4
+  - first:
+      213: 2927762757541971950
+    second: Molly_idle_anim_48x48_5
+  - first:
+      213: -3735796413444552081
+    second: Molly_idle_anim_48x48_6
+  - first:
+      213: -2500815220527775538
+    second: Molly_idle_anim_48x48_7
+  - first:
+      213: 6667646432824493846
+    second: Molly_idle_anim_48x48_8
+  - first:
+      213: 7692443467691242399
+    second: Molly_idle_anim_48x48_9
+  - first:
+      213: 5474583866445130840
+    second: Molly_idle_anim_48x48_10
+  - first:
+      213: -153610508088058120
+    second: Molly_idle_anim_48x48_11
+  - first:
+      213: -2661650886889158258
+    second: Molly_idle_anim_48x48_12
+  - first:
+      213: -2792240593136118649
+    second: Molly_idle_anim_48x48_13
+  - first:
+      213: 7298835108588991682
+    second: Molly_idle_anim_48x48_14
+  - first:
+      213: 2278149424407523355
+    second: Molly_idle_anim_48x48_15
+  - first:
+      213: 1521981424551560240
+    second: Molly_idle_anim_48x48_16
+  - first:
+      213: -4402760462756958085
+    second: Molly_idle_anim_48x48_17
+  - first:
+      213: 835435405449606015
+    second: Molly_idle_anim_48x48_18
+  - first:
+      213: 6016996632967938689
+    second: Molly_idle_anim_48x48_19
+  - first:
+      213: 2210535874538951711
+    second: Molly_idle_anim_48x48_20
+  - first:
+      213: -3785778237009497699
+    second: Molly_idle_anim_48x48_21
+  - first:
+      213: 5656192252971837007
+    second: Molly_idle_anim_48x48_22
+  - first:
+      213: -3196147717701365708
+    second: Molly_idle_anim_48x48_23
+  - first:
+      213: -8711072214258826034
+    second: Molly_idle_anim_48x48_24
+  - first:
+      213: 8244200941179532984
+    second: Molly_idle_anim_48x48_25
+  - first:
+      213: -7594705806059937562
+    second: Molly_idle_anim_48x48_26
+  - first:
+      213: -3442792006105169510
+    second: Molly_idle_anim_48x48_27
+  - first:
+      213: -8678319261297481130
+    second: Molly_idle_anim_48x48_28
+  - first:
+      213: 3931572414019813460
+    second: Molly_idle_anim_48x48_29
+  - first:
+      213: -7152613963519218789
+    second: Molly_idle_anim_48x48_30
+  - first:
+      213: 7668442897100264212
+    second: Molly_idle_anim_48x48_31
+  - first:
+      213: 7817443618258288639
+    second: Molly_idle_anim_48x48_32
+  - first:
+      213: -3560153401008324013
+    second: Molly_idle_anim_48x48_33
+  - first:
+      213: -4311353090897903626
+    second: Molly_idle_anim_48x48_34
+  - first:
+      213: -2372731893506993904
+    second: Molly_idle_anim_48x48_35
+  - first:
+      213: -6537562624252387709
+    second: Molly_idle_anim_48x48_36
+  - first:
+      213: 4028080540257630672
+    second: Molly_idle_anim_48x48_37
+  - first:
+      213: -4829248599964833256
+    second: Molly_idle_anim_48x48_38
+  - first:
+      213: -6910098262992657159
+    second: Molly_idle_anim_48x48_39
+  - first:
+      213: -2063542701864148415
+    second: Molly_idle_anim_48x48_40
+  - first:
+      213: -1207789369213111190
+    second: Molly_idle_anim_48x48_41
+  - first:
+      213: 444359546638814956
+    second: Molly_idle_anim_48x48_42
+  - first:
+      213: -5067022141508356241
+    second: Molly_idle_anim_48x48_43
+  - first:
+      213: 3072858838659700521
+    second: Molly_idle_anim_48x48_44
+  - first:
+      213: 3753898493320249218
+    second: Molly_idle_anim_48x48_45
+  - first:
+      213: -6313478723583810116
+    second: Molly_idle_anim_48x48_46
+  - first:
+      213: -3968302864051906878
+    second: Molly_idle_anim_48x48_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Molly_idle_anim_48x48_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4245dfea159fefe90800000000000000
+      internalID: -3689413810849930048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_idle_anim_48x48_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728089f335f2228b0800000000000000
+      internalID: -3262657108406652563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_idle_anim_48x48_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f03cdaa09da75480800000000000000
+      internalID: -4017253989987357853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_idle_anim_48x48_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef013428ecd277100800000000000000
+      internalID: 3858222242795064319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_idle_anim_48x48_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7d3bc6a2e2bdba0800000000000000
+      internalID: 2005818160473247673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_idle_anim_48x48_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee748ed47b081a820800000000000000
+      internalID: 4050381447978655712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_idle_anim_48x48_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a857f74f8c72cc0800000000000000
+      internalID: -724125622304376399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_idle_anim_48x48_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec04d8b8ec15b4dd0800000000000000
+      internalID: 8171099948997174083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_idle_anim_48x48_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617876c9a1d388c50800000000000000
+      internalID: 8268553004579009135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_idle_anim_48x48_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93b28ad39c01ca60800000000000000
+      internalID: -468169211524109788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_idle_anim_48x48_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ceb8c5501a9fb40800000000000000
+      internalID: 1264551591247850286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_idle_anim_48x48_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fed4a78e044eddf0800000000000000
+      internalID: 1785170662606219413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_idle_anim_48x48_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e894ed2de9aef0bd0800000000000000
+      internalID: 1356656823064890196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_idle_anim_48x48_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78412b679f7ff39d0800000000000000
+      internalID: 6151757577699336304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_idle_anim_48x48_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4b8914cdbaa4560800000000000000
+      internalID: -5223824165436987367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_idle_anim_48x48_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b103213d4dc9d9f10800000000000000
+      internalID: 5626244886828246412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_idle_anim_48x48_16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0348325ba0a2f1510800000000000000
+      internalID: -6044887738804062338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_idle_anim_48x48_17
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 0
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70bc3a9fa046e2c0800000000000000
+      internalID: 681196751365471921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_idle_anim_48x48_18
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73bb9e2310189b00800000000000000
+      internalID: -8929079789360584696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_idle_anim_48x48_19
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 0
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18286caee8aa08350800000000000000
+      internalID: 6297459938008514720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_idle_anim_48x48_20
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14d62d7aa66dae10800000000000000
+      internalID: -4845312946568168549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_idle_anim_48x48_21
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 0
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91f4a850c6367bc0800000000000000
+      internalID: -354929952942830171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_idle_anim_48x48_22
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 0
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46e3b3e2e4de7e40800000000000000
+      internalID: -8616728625829116954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molly_idle_anim_48x48_23
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 0
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4301cbca59005a3d0800000000000000
+      internalID: -40108476360729812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Molly_idle_anim_48x48_7: 8171099948997174083
+      Molly_idle_anim_48x48_16: -6044887738804062338
+      Molly_idle_anim_48x48_21: -354929952942830171
+      Molly_idle_anim_48x48_2: -4017253989987357853
+      Molly_idle_anim_48x48_14: -5223824165436987367
+      Molly_idle_anim_48x48_9: -468169211524109788
+      Molly_idle_anim_48x48_18: -8929079789360584696
+      Molly_idle_anim_48x48_17: 681196751365471921
+      Molly_idle_anim_48x48_23: -40108476360729812
+      Molly_idle_anim_48x48_0: -3689413810849930048
+      Molly_idle_anim_48x48_1: -3262657108406652563
+      Molly_idle_anim_48x48_8: 8268553004579009135
+      Molly_idle_anim_48x48_15: 5626244886828246412
+      Molly_idle_anim_48x48_3: 3858222242795064319
+      Molly_idle_anim_48x48_11: 1785170662606219413
+      Molly_idle_anim_48x48_4: 2005818160473247673
+      Molly_idle_anim_48x48_22: -8616728625829116954
+      Molly_idle_anim_48x48_13: 6151757577699336304
+      Molly_idle_anim_48x48_20: -4845312946568168549
+      Molly_idle_anim_48x48_6: -724125622304376399
+      Molly_idle_anim_48x48_12: 1356656823064890196
+      Molly_idle_anim_48x48_5: 4050381447978655712
+      Molly_idle_anim_48x48_19: 6297459938008514720
+      Molly_idle_anim_48x48_10: 1264551591247850286
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
