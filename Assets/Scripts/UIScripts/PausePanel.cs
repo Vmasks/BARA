@@ -14,6 +14,7 @@ public class PausePanel : VBaseUIForm
     public GameObject exportBtn;
     public Text talkNumText;
     public Text reNumText;
+    public Text test;
 
     public Text testText;
     public GameObject LogArea;
@@ -61,6 +62,18 @@ public class PausePanel : VBaseUIForm
         talkNumText.text = $"已访问：{Global.dialogCollection.Count}人";
         reNumText.text = $"已写需求：{Global.requirements.Count}条";
         testLog();
+        // test.text = Global.branchRecord["Lynette"][0][0];
+        
+        // foreach (var kvp in Global.branchRecord){
+        //     print("Key = " + kvp.Key + "Value = " + kvp.Value + "\r");
+        // }
+
+        // print("length:" + Global.branchRecord["Lynette"].Count.ToString());
+
+        // print("length:" + Global.branchRecord["Lynette"][0].Count.ToString());
+
+        // test.text = Global.branchRecord["Lynette"][0][0];
+        
     }
 
     private void testLog()

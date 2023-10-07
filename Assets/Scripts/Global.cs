@@ -29,6 +29,8 @@ public class Global
     public static Dictionary<string, string> requirements = new Dictionary<string, string>();
     //记录所有已访问NPC情绪，载入游戏存档时使用 Key: NPC名字 Value：NPC状态
     public static Dictionary<string, string> npcMood = new Dictionary<string, string>();
+    // 记录所有与NPC对话的产生的分支选择，Key: NPC名字 Value：分支记录列表（List：N/P）
+    public static Dictionary<string, List<List<string>>> branchRecord = new Dictionary<string, List<List<string>>>();
     //指示显示谁的详细对话内容，未来应当用UI间传参取代
     //public static string detailName = "";
     //指示是“对话”还是“观察”，未来应当用UI间传参取代

@@ -1,0 +1,3 @@
+bothor 30 normal
+normal OptionN mad
+normal OptionP normal

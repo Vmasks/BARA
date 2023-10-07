@@ -79,6 +79,7 @@ namespace GameSave
             gd.allDialogue = Global.dialogCollection;
             gd.requirements = Global.requirements;
             gd.npcMood = Global.npcMood;
+            gd.branchRecord = Global.branchRecord;
             gd.hasOpenTipsPanel = Global.hasOpenTipsPanel;
             gd.hasCollectedMood = Global.hasCollectedMood;
             // log 先记录 在保存
@@ -112,6 +113,7 @@ namespace GameSave
             gd.allDialogue = Global.dialogCollection;
             gd.requirements = Global.requirements;
             gd.npcMood = Global.npcMood;
+            gd.branchRecord = Global.branchRecord;
             gd.hasOpenTipsPanel = Global.hasOpenTipsPanel;
             gd.hasCollectedMood = Global.hasCollectedMood;
             // log 先记录 再导出

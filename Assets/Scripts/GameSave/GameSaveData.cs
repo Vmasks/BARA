@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -29,6 +29,8 @@ namespace GameSave
         public Dictionary<string, string> requirements;
         //NPC情绪
         public Dictionary<string, string> npcMood;
+        // 剧情分支
+        public Dictionary<string, List<List<string>>> branchRecord;
 
         // 该变量用于指示玩家是否打开过提示面板
         public bool hasOpenTipsPanel;

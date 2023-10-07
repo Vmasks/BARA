@@ -68,7 +68,7 @@ namespace SUIFW
             }
 
             Debug.Log(GetType() + "/ShowText()/ Query is Null!  Parameter lauguageID: " + lauguageID);
-	        return null;
+	        return lauguageID;
 	    }
 
 	    /// <summary>
