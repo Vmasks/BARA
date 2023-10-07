@@ -40,7 +40,12 @@ public class GameMgr : MonoBehaviour
             GameObject player = Resources.Load<GameObject>("Player/" + mainCharacter);
             Instantiate(player, new Vector3(-2.5f, -3f, 0), new Quaternion());
         }
-
+        else if (sceneName == "UCD")
+        {
+            SceneManager.LoadScene("Classroom");
+            GameObject player = Resources.Load<GameObject>("Player/" + mainCharacter);
+            Instantiate(player, new Vector3(5.74f, -12.37f, 0), new Quaternion());
+        }
         UIManager.GetInstance().ShowUIForms("MainPanel");
     }
 

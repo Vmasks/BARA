@@ -6,7 +6,8 @@ using UnityEngine.UI;
 
 public class ScenesSelectPanel : BaseUIForm
 {
-    public Button libBtn, gymBtn;
+    // 图书馆场景，健身房场景，自己创建的场景
+    public Button libBtn, gymBtn, myBtn;
     private void Awake()
     {
         //窗体的性质
@@ -24,6 +25,11 @@ public class ScenesSelectPanel : BaseUIForm
         gymBtn.onClick.AddListener(() =>
         {
             GameMgr.GetInstance().sceneName = "Gym";
+            OpenUIForm("CreatePlayerPanel");
+        });
+        myBtn.onClick.AddListener(() =>
+        {
+            GameMgr.GetInstance().sceneName = "UCD";
             OpenUIForm("CreatePlayerPanel");
         });
     }
