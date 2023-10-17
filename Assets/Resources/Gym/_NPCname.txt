@@ -1,0 +1,15 @@
+NPC的列表如下:
+Alex
+Manager
+Tom
+Maddy
+Lucy
+Andy
+Amy
+Nate
+Rob
+Witch
+Ash
+Cleaner
+Karen
+Amelia
