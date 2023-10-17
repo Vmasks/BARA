@@ -34,7 +34,7 @@ public class NPCMoodTest : MonoBehaviour
         }
         else
         {
-            currentState = "init";
+            currentState = taLines[0];
         }
         // print(this.gameObject.name);
     }

@@ -32,7 +32,7 @@ public class DialogPanel : VBaseUIForm
     {
         base.Display();
         avator1 = Resources.Load<Sprite>("avator/" + GameMgr.GetInstance().mainCharacter);
-        avator2 = Resources.Load<Sprite>("avator/" + Global.currentTalkNPC.name);
+        avator2 = Resources.Load<Sprite>("avator/" + GameMgr.GetInstance().sceneName + "/" + Global.currentTalkNPC.name);
         if (Global.isTalk)
         {
             print(GameMgr.GetInstance().sceneName + "/" + "Dialog/" + Global.currentTalkNPC.name + '/' + Global.currentTalkNPC.GetComponent<NPCMoodTest>().currentState);
@@ -50,7 +50,7 @@ public class DialogPanel : VBaseUIForm
         else
         {
             textList.Clear();
-            textList.Add("B\r");
+            textList.Add("B");
             textList.Add("...");
         }
         textFinished = true;

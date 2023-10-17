@@ -5,10 +5,10 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 
-// ÕâÊÇÒ»¸ö Game session µÄ Manager, ¶ø²»ÊÇÈ«¾ÖµÄ Manager
+// ï¿½ï¿½ï¿½ï¿½Ò»ï¿½ï¿½ Game session ï¿½ï¿½ Manager, ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È«ï¿½Öµï¿½ Manager
 public class GameMgr : MonoBehaviour
 {
-    // µ¥ÀýÄ£Ê½
+    // ï¿½ï¿½ï¿½ï¿½Ä£Ê½
     private static GameMgr _Instance;
     public static GameMgr GetInstance()
     {
@@ -18,14 +18,14 @@ public class GameMgr : MonoBehaviour
         }
         return _Instance;
     }
-    // Íæ¼Ò¸ø×Ô¼ºÆðµÄÃû×Ö
+    // ï¿½ï¿½Ò¸ï¿½ï¿½Ô¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
     public string playerName = "Player";
-    // Íæ¼ÒÑ¡ÔñµÄÖ÷½Ç, Ä¿Ç°ÓÐ4ÖÖÑ¡Ôñ
+    // ï¿½ï¿½ï¿½Ñ¡ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, Ä¿Ç°ï¿½ï¿½4ï¿½ï¿½Ñ¡ï¿½ï¿½
     public string mainCharacter = "Adam";
-    // ³¡¾°, Ä¿Ç°ÓÐÁ½¸ö³¡¾°, ·Ö±ðÎªÍ¼Êé¹Ý ºÍ ÌåÓý¹Ý
+    // ï¿½ï¿½ï¿½ï¿½, Ä¿Ç°ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½Ö±ï¿½ÎªÍ¼ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
     public string sceneName = "Gym";
 
-    // ÔØÈë³¡¾°, ¿ªÊ¼ÓÎÏ·
+    // ï¿½ï¿½ï¿½ë³¡ï¿½ï¿½, ï¿½ï¿½Ê¼ï¿½ï¿½Ï·
     public void StartGame()
     {
         if (sceneName == "Gym")
@@ -40,7 +40,12 @@ public class GameMgr : MonoBehaviour
             GameObject player = Resources.Load<GameObject>("Player/" + mainCharacter);
             Instantiate(player, new Vector3(-2.5f, -3f, 0), new Quaternion());
         }
-
+        else if (sceneName == "UCD")
+        {
+            SceneManager.LoadScene("Hall");
+            GameObject player = Resources.Load<GameObject>("Player/" + mainCharacter);
+            Instantiate(player, new Vector3(2.73f, -8.98f, 0), new Quaternion());
+        }
         UIManager.GetInstance().ShowUIForms("MainPanel");
     }
 
@@ -51,10 +56,10 @@ public class GameMgr : MonoBehaviour
 
     void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
-        // ÔÚÔØÈë³¡¾°µÄÊ±ºò¾ÍË¢ÐÂ×´Ì¬
+        // ï¿½ï¿½ï¿½ï¿½ï¿½ë³¡ï¿½ï¿½ï¿½ï¿½Ê±ï¿½ï¿½ï¿½Ë¢ï¿½ï¿½×´Ì¬
         //Debug.Log("OnSceneLoaded: " + scene.name);
         //Debug.Log(mode);
-        // µ±Ç°³¡¾°ÖÐËùÓÐNPC GameObject µÄÒýÓÃ
+        // ï¿½ï¿½Ç°ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½NPC GameObject ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
         var NPCObjects = GameObject.FindGameObjectsWithTag("NPC");
         var objectCount = NPCObjects.Length;
         for (int i = 0; i < objectCount; i++)
@@ -65,7 +70,7 @@ public class GameMgr : MonoBehaviour
                 obj.GetComponent<NPCMoodTest>().SetState(Global.npcMood[obj.name]);
             }
         }
-        Global.AddDetailedLog($"½øÈë³¡¾° {scene.name}");
+        Global.AddDetailedLog($"ï¿½ï¿½ï¿½ë³¡ï¿½ï¿½ {scene.name}");
     }
 
     // Start is called before the first frame update
@@ -75,7 +80,7 @@ public class GameMgr : MonoBehaviour
     }
 
     // Update is called once per frame
-    // È«¾Ö¿ì½Ý¼üÔÚÕâÀï¼ì²â
+    // È«ï¿½Ö¿ï¿½Ý¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
     void Update()
     {
        

@@ -6,13 +6,14 @@ using UnityEngine.UI;
 
 public class ScenesSelectPanel : BaseUIForm
 {
-    public Button libBtn, gymBtn;
+    // Í¼ï¿½ï¿½Ý³ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ô¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä³ï¿½ï¿½ï¿½
+    public Button libBtn, gymBtn, myBtn;
     private void Awake()
     {
-        //´°ÌåµÄÐÔÖÊ
+        //ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
         CurrentUIType.UIForms_ShowMode = UIFormShowMode.HideOther;
         CurrentUIType.UIForms_Type = UIFormType.Normal;
-        //×¢²á¹Ø±Õ´°¿Ú°´Å¥
+        //×¢ï¿½ï¿½Ø±Õ´ï¿½ï¿½Ú°ï¿½Å¥
         RigisterButtonObjectEvent("CloseBtn",
             p => CloseUIForm()
         );
@@ -24,6 +25,11 @@ public class ScenesSelectPanel : BaseUIForm
         gymBtn.onClick.AddListener(() =>
         {
             GameMgr.GetInstance().sceneName = "Gym";
+            OpenUIForm("CreatePlayerPanel");
+        });
+        myBtn.onClick.AddListener(() =>
+        {
+            GameMgr.GetInstance().sceneName = "UCD";
             OpenUIForm("CreatePlayerPanel");
         });
     }
