@@ -17,6 +17,15 @@ public class Chat : Node {
 		
 		
 	}
+	public Node MoveNext()
+	{
+		NodePort port = GetOutputPort("output");
+		if (!port.IsConnected)
+		{
+			return null;
+		}
+		return port.Connection.node;
+	}
 
 	// Return the correct value of an output port when requested
 	public override object GetValue(NodePort port) {

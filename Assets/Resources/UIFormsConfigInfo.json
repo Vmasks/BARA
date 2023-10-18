@@ -60,6 +60,10 @@
         {
             "Key":"ScenesSelectPanel",
             "Value":"UIPrefabs\\ScenesSelectPanel"
+        },
+        {
+            "Key":"DialogPanelBranch",
+            "Value":"UIPrefabs\\DialogPanelBranch"
         }
     ]
 }
