@@ -20,6 +20,8 @@ public class DialogPanel : VBaseUIForm
     private bool textFinished;
     private Sprite avator1, avator2;
     private float textSpeed = 0.05f;
+    // 交互方式，当前支持对话与观察
+    private string interactiveMethod;
     private void Awake()
     {
         //窗体性质
@@ -27,20 +29,24 @@ public class DialogPanel : VBaseUIForm
         CurrentUIType.UIForm_LucencyType = UIFormLucenyType.Lucency;
         CurrentUIType.UIForms_ShowMode = UIFormShowMode.ReverseChange;
         gameObject.AddComponent<Button>().onClick.AddListener(NextPara);
+        ReceiveMessage("InteractiveMethod", p =>
+        {
+            interactiveMethod = p.Values as string;
+        });
     }
     override public void Display()
     {
         base.Display();
         avator1 = Resources.Load<Sprite>("avator/" + GameMgr.GetInstance().mainCharacter);
-        avator2 = Resources.Load<Sprite>("avator/" + GameMgr.GetInstance().sceneName + "/" + Global.currentTalkNPC.name);
-        if (Global.isTalk)
+        avator2 = Resources.Load<Sprite>("avator/" + GameMgr.GetInstance().sceneName + "/" + Global.currentInteractNPC.name);
+        if (interactiveMethod == "Talk")
         {
-            print(GameMgr.GetInstance().sceneName + "/" + "Dialog/" + Global.currentTalkNPC.name + '/' + Global.currentTalkNPC.GetComponent<NPCMoodTest>().currentState);
-            textFile = (TextAsset)Resources.Load(GameMgr.GetInstance().sceneName + "/" + "Dialog/" + Global.currentTalkNPC.name + '/' + Global.currentTalkNPC.GetComponent<NPCMoodTest>().currentState);
+            print(GameMgr.GetInstance().sceneName + "/" + "Dialog/" + Global.currentInteractNPC.name + '/' + Global.currentInteractNPC.GetComponent<NPCMoodTest>().currentState);
+            textFile = (TextAsset)Resources.Load(GameMgr.GetInstance().sceneName + "/" + "Dialog/" + Global.currentInteractNPC.name + '/' + Global.currentInteractNPC.GetComponent<NPCMoodTest>().currentState);
         }
-        else
+        else if (interactiveMethod == "Observe")
         {
-            textFile = (TextAsset)Resources.Load(GameMgr.GetInstance().sceneName + "/" + "Thinking/" + Global.currentTalkNPC.name + '/' + Global.currentTalkNPC.GetComponent<NPCMoodTest>().currentState);
+            textFile = (TextAsset)Resources.Load(GameMgr.GetInstance().sceneName + "/" + "Thinking/" + Global.currentInteractNPC.name + '/' + Global.currentInteractNPC.GetComponent<NPCMoodTest>().currentState);
         }
 
         if (textFile != null)
@@ -87,19 +93,19 @@ public class DialogPanel : VBaseUIForm
                 CloseUIForm();
                 //改变NPC状态并记录状态
                 // 改变之前要记录一下（为啥要记录一下？）
-                if (!Global.hasCollectedMood.ContainsKey(Global.currentTalkNPC.name))
+                if (!Global.hasCollectedMood.ContainsKey(Global.currentInteractNPC.name))
                 {
-                    Global.hasCollectedMood.Add(Global.currentTalkNPC.name, new HashSet<string>());
+                    Global.hasCollectedMood.Add(Global.currentInteractNPC.name, new HashSet<string>());
                 }
-                if (Global.isTalk)
+                if (interactiveMethod == "Talk")
                 {
 
-                    print ($"对话 {Global.currentTalkNPC.name}");
-                    Global.AddDetailedLog($"对话 {Global.currentTalkNPC.name} {Global.currentTalkNPC.GetComponent<NPCMoodTest>().currentState}");
-                    string currentMood = Global.currentTalkNPC.GetComponent<NPCMoodTest>().currentState;
-                    if (!Global.hasCollectedMood[Global.currentTalkNPC.name].Contains(currentMood))
+                    print ($"对话 {Global.currentInteractNPC.name}");
+                    Global.AddDetailedLog($"对话 {Global.currentInteractNPC.name} {Global.currentInteractNPC.GetComponent<NPCMoodTest>().currentState}");
+                    string currentMood = Global.currentInteractNPC.GetComponent<NPCMoodTest>().currentState;
+                    if (!Global.hasCollectedMood[Global.currentInteractNPC.name].Contains(currentMood))
                     {
-                        Global.hasCollectedMood[Global.currentTalkNPC.name].Add(currentMood);
+                        Global.hasCollectedMood[Global.currentInteractNPC.name].Add(currentMood);
                     }
                     //foreach (string key in Global.hasCollectedMood.Keys)
                     //{
@@ -112,25 +118,25 @@ public class DialogPanel : VBaseUIForm
                     //}
                     
                     //改变状态
-                    Global.currentTalkNPC.GetComponent<NPCMoodTest>().ChangeState("Talk");
+                    Global.currentInteractNPC.GetComponent<NPCMoodTest>().ChangeState("Talk");
                     print("DialogPanel 改变了状态");
 
                 }
                 // 观察
                 else
                 {
-                    Global.currentTalkNPC.GetComponent<NPCMoodTest>().ChangeState("Observe");
+                    Global.currentInteractNPC.GetComponent<NPCMoodTest>().ChangeState("Observe");
                     print("DialogPanel 改变了状态");
-                    Global.AddDetailedLog($"观察 {Global.currentTalkNPC.name} {Global.currentTalkNPC.GetComponent<NPCMoodTest>().currentState}");
+                    Global.AddDetailedLog($"观察 {Global.currentInteractNPC.name} {Global.currentInteractNPC.GetComponent<NPCMoodTest>().currentState}");
                 }
                 //记录状态
-                if (Global.npcMood.ContainsKey(Global.currentTalkNPC.name))
+                if (Global.npcMood.ContainsKey(Global.currentInteractNPC.name))
                 {
-                    Global.npcMood[Global.currentTalkNPC.name] = Global.currentTalkNPC.GetComponent<NPCMoodTest>().currentState;
+                    Global.npcMood[Global.currentInteractNPC.name] = Global.currentInteractNPC.GetComponent<NPCMoodTest>().currentState;
                 }
                 else
                 {
-                    Global.npcMood.Add(Global.currentTalkNPC.name, Global.currentTalkNPC.GetComponent<NPCMoodTest>().currentState);
+                    Global.npcMood.Add(Global.currentInteractNPC.name, Global.currentInteractNPC.GetComponent<NPCMoodTest>().currentState);
                 }
                 index = 0;
                 return;
@@ -159,11 +165,11 @@ public class DialogPanel : VBaseUIForm
     {
         string dialogStr = file.text;
         if (!file) return;
-        if (!Global.dialogCollection.ContainsKey(Global.currentTalkNPC.name))
+        if (!Global.dialogCollection.ContainsKey(Global.currentInteractNPC.name))
         {
-            Global.dialogCollection.Add(Global.currentTalkNPC.name, new List<string>());
+            Global.dialogCollection.Add(Global.currentInteractNPC.name, new List<string>());
         }
-        List<string> tmpList = Global.dialogCollection[Global.currentTalkNPC.name];
+        List<string> tmpList = Global.dialogCollection[Global.currentInteractNPC.name];
         foreach (string line in tmpList)
         {
             if (line == dialogStr)
@@ -172,14 +178,14 @@ public class DialogPanel : VBaseUIForm
             }
         }
         tmpList.Add(dialogStr);
-        Global.dialogCollection[Global.currentTalkNPC.name] = tmpList;
+        Global.dialogCollection[Global.currentInteractNPC.name] = tmpList;
 
     }
 
 
     void GetTextFromFile(TextAsset file)
     {
-        if (Global.isTalk)
+        if (interactiveMethod == "Talk")
         {
             RecordDialog(file);
         }
@@ -206,7 +212,7 @@ public class DialogPanel : VBaseUIForm
                 break;
             case "B\r":
                 faceImage.sprite = avator2;
-                NPCName.text = Show(Global.currentTalkNPC.name);
+                NPCName.text = Show(Global.currentInteractNPC.name);
                 index++;
                 break;
         }

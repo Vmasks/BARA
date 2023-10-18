@@ -28,11 +28,11 @@ public class PlayerTest : MonoBehaviour
         if (collision.collider.CompareTag("NPC"))
         {
             currentTalkNPC = collision.collider.name;
-            Global.currentTalkNPC = collision.gameObject;
+            Global.currentInteractNPC = collision.gameObject;
             //检查是否需要重新设置状态，若需要，则设置
             //字典里有说明它的情绪曾改变过，需要重新设置，设置后再从字典中删除即可
             // 这个功能是必要的，但是我现在把他移动到了GameMgr 中，在每次场景变化时直接遍历场景中的全部NPC，直接赋值
-            //if (Global.npcMood.ContainsKey(currentTalkNPC))
+            //if (Global.npcMood.ContainsKey(currentInteractNPC))
             //{
             //    collision.gameObject.GetComponent<NPCMoodTest>().SetState(Global.npcMood[collision.collider.name]);
             //    // Global.npcMood.Remove(collision.collider.name);

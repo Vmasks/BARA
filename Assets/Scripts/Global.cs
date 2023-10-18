@@ -22,7 +22,7 @@ public class Global
     /// </summary>
     //public static string player = "Adam";
     //存储当前聊天NPC的gameObject，除了要用到它的名字，还要改变它的情绪
-    public static GameObject currentTalkNPC;
+    public static GameObject currentInteractNPC;
     //存储所有对话内容 key：NPC名字，Value: 对话内容
     public static Dictionary<string, List<string>> dialogCollection = new Dictionary<string, List<string>>();
     //记录玩家写下的需求，Key：InputElem的name Value：该条需求
@@ -32,7 +32,7 @@ public class Global
     //指示显示谁的详细对话内容，未来应当用UI间传参取代
     //public static string detailName = "";
     //指示是“对话”还是“观察”，未来应当用UI间传参取代
-    public static bool isTalk = true;
+    //public static bool isTalk = true;
     //当前存档名称（如果是新游戏，则值为Default）
     public static string storeName = "Default";
     //该变量用于防止玩家用键盘关闭SelectPanel时再次打开该面板。

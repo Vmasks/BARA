@@ -21,14 +21,16 @@ public class SelectPanel : VBaseUIForm
         //注册交谈按钮事件
         talkBtn.GetComponent<Button>().onClick.AddListener(() =>
         {
-            Global.isTalk = true;
+            //Global.isTalk = true;
             OpenUIForm("DialogPanel");
+            SendMessage("InteractiveMethod", "Talk", "Talk");
         });
         //注册观察按钮事件
         observeBtn.GetComponent<Button>().onClick.AddListener(() =>
         {
-            Global.isTalk = false;
+            //Global.isTalk = false;
             OpenUIForm("DialogPanel");
+            SendMessage("InteractiveMethod", "Observe", "Observe");
         });
         //注册“取消”按钮事件
         cancelBtn.GetComponent<Button>().onClick.AddListener(() => 

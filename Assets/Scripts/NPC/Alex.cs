@@ -39,13 +39,13 @@ public class Alex : NPCMood
             print("hahaha");
             currentMood = "Normal";
             //记录情绪
-            if (Global.npcMood.ContainsKey(Global.currentTalkNPC.name))
+            if (Global.npcMood.ContainsKey(Global.currentInteractNPC.name))
             {
-                Global.npcMood[Global.currentTalkNPC.name] = Global.currentTalkNPC.GetComponent<NPCMood>().GetCurrentMood();
+                Global.npcMood[Global.currentInteractNPC.name] = Global.currentInteractNPC.GetComponent<NPCMood>().GetCurrentMood();
             }
             else
             {
-                Global.npcMood.Add(Global.currentTalkNPC.name, Global.currentTalkNPC.GetComponent<NPCMood>().GetCurrentMood());
+                Global.npcMood.Add(Global.currentInteractNPC.name, Global.currentInteractNPC.GetComponent<NPCMood>().GetCurrentMood());
             }
         }
     }
