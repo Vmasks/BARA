@@ -7,7 +7,7 @@ public class PlayerTest : MonoBehaviour
 {
     [SerializeField]
     private string currentTalkNPC = "";
-    Collider2D col2d;
+    private Collider2D col2d;
     // Start is called before the first frame update
     void Start()
     {
