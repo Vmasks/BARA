@@ -7,9 +7,7 @@ using UnityEngine.UI;
 
 public class ReadGraph : MonoBehaviour
 {
-
-    private void Start()
-    {
-        UIManager.GetInstance().ShowUIForms("DialogPanelBranch");   
+    private void Awake() {
+        UIManager.GetInstance().ShowUIForms("DialogPanelBranch");
     }
 }

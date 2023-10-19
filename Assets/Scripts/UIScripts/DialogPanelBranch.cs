@@ -10,15 +10,18 @@ public class DialogPanelBranch : BaseUIForm
     public DialogGraph graph;
     private GameObject dialogPanel;
     private GameObject branchPanel;
+    public Button posBtn, negBtn;
+    public Text posText, negText;
     public Image sp;
     public Text playerName;
     public Text dialogContent;
     public Sprite sp1, sp2;
     public string name1, name2;
     private float textSpeed = 0.05f;
-    private bool flag = false;
+    private bool canContinue = false;
     private bool sentenceFinished = false;
-    // ÕÒµ½µÚÒ»¸ö½Úµã£¬¼´Ã»ÓÐÈë¿ÚÎª¿ÕµÄ½Úµã
+    private bool playerMadeChoice = false;
+    // æ‰¾åˆ°ç¬¬ä¸€ä¸ªèŠ‚ç‚¹ï¼Œå³æ²¡æœ‰å…¥å£ä¸ºç©ºçš„èŠ‚ç‚¹
     private Node GetStartNode()
     {
         foreach (Node node in graph.nodes)
@@ -33,8 +36,8 @@ public class DialogPanelBranch : BaseUIForm
     }
     private void Awake()
     {
-        //´°ÌåÐÔÖÊ
-        CurrentUIType.UIForms_Type = UIFormType.PopUp; //µ¯³ö´°Ìå
+        //çª—ä½“æ€§è´¨
+        CurrentUIType.UIForms_Type = UIFormType.PopUp; //å¼¹å‡ºçª—ä½“
         CurrentUIType.UIForm_LucencyType = UIFormLucenyType.Lucency;
         CurrentUIType.UIForms_ShowMode = UIFormShowMode.ReverseChange;
         dialogPanel = transform.Find("DialogPanel").gameObject;
@@ -48,6 +51,27 @@ public class DialogPanelBranch : BaseUIForm
         base.Display();
         Node firstNode = GetStartNode();
         Node node = firstNode;
+        StartCoroutine(TraverseNodes(node));
+
+    }
+
+    
+
+    // ç‚¹å‡»èŠå¤©æ¡†æ—¶è§¦å‘çš„æ–¹æ³•
+    public void NextSentence()
+    {
+        if (sentenceFinished)
+        {
+            canContinue = true;
+        }
+        else
+        {
+            textSpeed = 0f;
+        }
+    }
+
+    IEnumerator TraverseNodes(Node node)
+    {
         while (node != null)
         {
             if (node is Chat)
@@ -56,44 +80,46 @@ public class DialogPanelBranch : BaseUIForm
                 branchPanel.SetActive(false);
                 Chat chatNode = node as Chat;
                 //print("chat");
-                StartCoroutine(ShowText(chatNode.content));
+                yield return StartCoroutine(ShowText(chatNode.content));
                 node = chatNode.MoveNext();
             }
             else if (node is Branch)
             {
                 dialogPanel.SetActive(false);
                 branchPanel.SetActive(true);
+                playerMadeChoice = false;
                 Branch branchNode = node as Branch;
+                posText.text = branchNode.posDesc;
+                negText.text = branchNode.negDesc;
+                posBtn.onClick.RemoveAllListeners();
+                negBtn.onClick.RemoveAllListeners();
+                posBtn.onClick.AddListener(() => {
+                    playerMadeChoice = true;
+                    node = branchNode.MoveNext(true);
+                });
+                negBtn.onClick.AddListener(() => {
+                    playerMadeChoice = true;
+                    node = branchNode.MoveNext(false); });
+                while (!playerMadeChoice) {
+                    yield return null;
+                }
                 // print("branch");
                 // print($"pos: {branchNode.posDesc}");
                 // print($"neg: {branchNode.negDesc}");
-                node = branchNode.MoveNext(false);
+                
             }
         }
         CloseUIForm();
-        //print("end");
-    }
-
-    // µã»÷ÁÄÌì¿òÊ±´¥·¢µÄ·½·¨
-    public void NextSentence()
-    {
-        if (sentenceFinished)
-        {
-            flag = true;
-        }
-        else
-        {
-            textSpeed = 0f;
-        }
     }
 
     IEnumerator ShowText(List<string> content)
     {
         foreach (string sentence in content)
         {
-            flag = false;
+            canContinue = false;
+            sentenceFinished = false;
             //print(sentence);
-            // Ê×ÏÈÅÐ¶ÏÒ»ÏÂÊ××Ö·ûÊÇA»¹ÊÇB£¬¸ø sp ºÍ playerName ¸³Öµ
+            // é¦–å…ˆåˆ¤æ–­ä¸€ä¸‹é¦–å­—ç¬¦æ˜¯Aè¿˜æ˜¯Bï¼Œç»™ sp å’Œ playerName èµ‹å€¼
             char firstChar = sentence[0];
             switch (firstChar)
             {
@@ -103,7 +129,7 @@ public class DialogPanelBranch : BaseUIForm
                     break;
                 case 'B':
                     sp.sprite = sp2;
-                    playerName.text = name1;
+                    playerName.text = name2;
                     break;
             }
             foreach (char ch in sentence.Substring(1))
@@ -111,7 +137,8 @@ public class DialogPanelBranch : BaseUIForm
                 dialogContent.text += ch;
                 yield return new WaitForSeconds(textSpeed);
             }
-            while (!flag)
+            sentenceFinished = true;
+            while (!canContinue)
             {
                 yield return null;
             }

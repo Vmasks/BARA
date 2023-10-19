@@ -100,8 +100,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  posDesc: "B\u8D70\uFF01"
-  negDesc: "B\u4E0D\u53BB\u3002"
+  posDesc: "\u8D70\uFF01"
+  negDesc: "\u4E0D\u53BB\u3002"
 --- !u!114 &-6899190491819599260
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -246,8 +246,8 @@ MonoBehaviour:
       _connectionType: 0
       _typeConstraint: 0
       _dynamic: 0
-  posDesc: "B\u90A3\u8FD8\u662F\u53BB\u5427"
-  negDesc: "B\u771F\u7684\u4E0D\u60F3\u53BB"
+  posDesc: "\u90A3\u8FD8\u662F\u53BB\u5427"
+  negDesc: "\u771F\u7684\u4E0D\u60F3\u53BB"
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -351,4 +351,4 @@ MonoBehaviour:
       _typeConstraint: 0
       _dynamic: 0
   content:
-  - "\u597D\u5427~"
+  - "A\u597D\u5427~"
