@@ -21,6 +21,7 @@ public class DialogPanelBranch : BaseUIForm
     private bool canContinue = false;
     private bool sentenceFinished = false;
     private bool playerMadeChoice = false;
+    private Node currentNode = null;
     // 找到第一个节点，即没有入口为空的节点
     private Node GetStartNode()
     {
@@ -45,14 +46,22 @@ public class DialogPanelBranch : BaseUIForm
         gameObject.AddComponent<Button>().onClick.AddListener(NextSentence);
         //sp.sprite = sp2;
         //playerName.text = name2;
+        posBtn.onClick.AddListener(() => {
+            playerMadeChoice = true;
+            Branch node = currentNode as Branch;
+            currentNode = node.MoveNext(true);
+        });
+        negBtn.onClick.AddListener(() => {
+            playerMadeChoice = true;
+            Branch node = currentNode as Branch;
+            currentNode = node.MoveNext(false);
+        });
     }
     public override void Display()
     {
         base.Display();
-        Node firstNode = GetStartNode();
-        Node node = firstNode;
-        StartCoroutine(TraverseNodes(node));
-
+        currentNode = GetStartNode();
+        StartCoroutine(TraverseNodes());
     }
 
     
@@ -70,43 +79,31 @@ public class DialogPanelBranch : BaseUIForm
         }
     }
 
-    IEnumerator TraverseNodes(Node node)
+    IEnumerator TraverseNodes()
     {
-        while (node != null)
+        while (currentNode != null)
         {
-            if (node is Chat)
+            if (currentNode is Chat)
             {
                 dialogPanel.SetActive(true);
                 branchPanel.SetActive(false);
-                Chat chatNode = node as Chat;
+                Chat chatNode = currentNode as Chat;
                 //print("chat");
                 yield return StartCoroutine(ShowText(chatNode.content));
-                node = chatNode.MoveNext();
+                currentNode = chatNode.MoveNext();
             }
-            else if (node is Branch)
+            else if (currentNode is Branch)
             {
                 dialogPanel.SetActive(false);
                 branchPanel.SetActive(true);
                 playerMadeChoice = false;
-                Branch branchNode = node as Branch;
+                Branch branchNode = currentNode as Branch;
                 posText.text = branchNode.posDesc;
                 negText.text = branchNode.negDesc;
-                posBtn.onClick.RemoveAllListeners();
-                negBtn.onClick.RemoveAllListeners();
-                posBtn.onClick.AddListener(() => {
-                    playerMadeChoice = true;
-                    node = branchNode.MoveNext(true);
-                });
-                negBtn.onClick.AddListener(() => {
-                    playerMadeChoice = true;
-                    node = branchNode.MoveNext(false); });
+                // 等待玩家做出选择
                 while (!playerMadeChoice) {
                     yield return null;
-                }
-                // print("branch");
-                // print($"pos: {branchNode.posDesc}");
-                // print($"neg: {branchNode.negDesc}");
-                
+                }                
             }
         }
         CloseUIForm();
