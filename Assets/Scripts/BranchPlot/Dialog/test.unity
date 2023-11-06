@@ -316,7 +316,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 
+  m_text: "\u5F00\u59CB\u5BF9\u8BDD"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c16144581990a9d45837d9078e190524, type: 2}
   m_sharedMaterial: {fileID: 6691135383436215912, guid: c16144581990a9d45837d9078e190524,
@@ -344,8 +344,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 18
+  m_fontSizeBase: 18
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18

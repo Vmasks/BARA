@@ -24,8 +24,7 @@ public class DialogPanel : VBaseUIForm
 
     //是否输出完一句话
     private bool textFinished;
-    private Sprite avator1,
-        avator2;
+    private Sprite avator1, avator2;
     private float textSpeed = 0.05f;
 
     private GameObject textLabel_GO;
