@@ -6,14 +6,14 @@ using UnityEngine.UI;
 
 public class ScenesSelectPanel : BaseUIForm
 {
-    // ͼ��ݳ������������������Լ������ĳ���
+    // 图书馆场景，健身房场景，自己创建的场景
     public Button libBtn, gymBtn, myBtn;
     private void Awake()
     {
-        //���������
+        //锟斤拷锟斤拷锟斤拷锟斤拷锟�
         CurrentUIType.UIForms_ShowMode = UIFormShowMode.HideOther;
         CurrentUIType.UIForms_Type = UIFormType.Normal;
-        //ע��رմ��ڰ�ť
+        //注锟斤拷乇沾锟斤拷诎锟脚�
         RigisterButtonObjectEvent("CloseBtn",
             p => CloseUIForm()
         );
