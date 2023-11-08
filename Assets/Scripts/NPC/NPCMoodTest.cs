@@ -5,23 +5,23 @@ using UnityEngine;
 
 public class NPCMoodTest : MonoBehaviour
 {
-    // ÏòÍâ±©Â¶Ò»¸öCurrentState ÓÃÓÚ¼ÓÔØ¶ÔÓ¦µÄ¶Ô»°»òÕß¹Û²ìÄÚÈİ
+    // å‘å¤–æš´éœ²ä¸€ä¸ªCurrentState ç”¨äºåŠ è½½å¯¹åº”çš„å¯¹è¯æˆ–è€…è§‚å¯Ÿå†…å®¹
     public string currentState;
-    // ×´Ì¬»ú
+    // çŠ¶æ€æœº
     private List<NPCState> fsm;
     
-    // ³õÊ¼»¯×´Ì¬»ú£¬¶ÁÈ¡ÏàÓ¦µÄ×´Ì¬ÎÄ±¾£¬Ìî³ä×´Ì¬List
+    // åˆå§‹åŒ–çŠ¶æ€æœºï¼Œè¯»å–ç›¸åº”çš„çŠ¶æ€æ–‡æœ¬ï¼Œå¡«å……çŠ¶æ€List
     
-    // Ã¿´ÎÇĞ»»³¡¾°¶¼»áµ¼ÖÂÖØĞÂ¼ÓÔØ×´Ì¬»ú
+    // æ¯æ¬¡åˆ‡æ¢åœºæ™¯éƒ½ä¼šå¯¼è‡´é‡æ–°åŠ è½½çŠ¶æ€æœº
     private void Awake()
     {
-        //¶ÁÒ»ĞĞÒ»ĞĞµÄ£¬È»ºóÌî×Öµä
+        //è¯»ä¸€è¡Œä¸€è¡Œçš„ï¼Œç„¶åå¡«å­—å…¸
         fsm = new List<NPCState>();
         print($"{GameMgr.GetInstance().sceneName}/StateMachine/{gameObject.name}");
         TextAsset ta = (TextAsset)Resources.Load($"{GameMgr.GetInstance().sceneName}/StateMachine/" + gameObject.name);
         // print(ta.text);
         string[] taLines = ta.text.Split("\r\n", StringSplitOptions.RemoveEmptyEntries);
-        // Èç¹û²»ÊÇÖ»ÓĞÒ»¸ö InitµÄ»°£¬¾Í´¦Àí£¬
+        // å¦‚æœä¸æ˜¯åªæœ‰ä¸€ä¸ª Initçš„è¯ï¼Œå°±å¤„ç†ï¼Œ
         if (!(taLines[0].Split(' ').Length == 1))
         {
             foreach(string stateLine in taLines)
@@ -39,11 +39,11 @@ public class NPCMoodTest : MonoBehaviour
         // print(this.gameObject.name);
     }
 
-    // Ã¿´Î×´Ì¬×ªÒÆÍêºóµ÷ÓÃ£¬ÓÃÓÚ¼ì²âĞÂ×´Ì¬ÊÇ·ñÓĞ¹Ì¶¨Ê±¼äÌø×ªµ½±ğµÄ×´Ì¬µÄ²Ù×÷£¬ÓĞµÄ»°ÔÚÕâÀï¾Í StartCoroutine
+    // æ¯æ¬¡çŠ¶æ€è½¬ç§»å®Œåè°ƒç”¨ï¼Œç”¨äºæ£€æµ‹æ–°çŠ¶æ€æ˜¯å¦æœ‰å›ºå®šæ—¶é—´è·³è½¬åˆ°åˆ«çš„çŠ¶æ€çš„æ“ä½œï¼Œæœ‰çš„è¯åœ¨è¿™é‡Œå°± StartCoroutine
     private void CheckState()
     {
-        // print("µ÷ÓÃCheckState");
-        // ±éÀú×´Ì¬»ú
+        // print("è°ƒç”¨CheckState");
+        // éå†çŠ¶æ€æœº
         foreach(NPCState state in fsm)
         {
             if (currentState.Equals(state.currentState))
@@ -51,7 +51,7 @@ public class NPCMoodTest : MonoBehaviour
                 float t;
                 if (float.TryParse(state.condition, out t))
                 {
-                    // print("Æô¶¯Ğ­³Ì");
+                    // print("å¯åŠ¨åç¨‹");
                     StartCoroutine(ChangeStateByTime(t, state.targetState));
                 }
                 
@@ -61,14 +61,14 @@ public class NPCMoodTest : MonoBehaviour
 
     public void ChangeState(string condition)
     {
-        // print("µ÷ÓÃChangeState");
+        // print("è°ƒç”¨ChangeState");
         foreach (NPCState state in fsm)
         {
             if (currentState.Equals(state.currentState))
             {
                 if (condition.Equals(state.condition))
                 {
-                    // ÕâÀï½áÊøÈ«²¿ÊÇ²»Í×µÄ
+                    // è¿™é‡Œç»“æŸå…¨éƒ¨æ˜¯ä¸å¦¥çš„
                     StopAllCoroutines();
                     currentState = state.targetState;
                     if (currentState == "end")

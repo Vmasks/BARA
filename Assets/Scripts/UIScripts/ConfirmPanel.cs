@@ -13,8 +13,8 @@ public class ConfirmPanel : VBaseUIForm
     public GameObject cancelBtn;
     private void Awake()
     {
-        //窗体性质
-        CurrentUIType.UIForms_Type = UIFormType.PopUp;  //弹出窗体
+        //绐椾綋鎬ц川
+        CurrentUIType.UIForms_Type = UIFormType.PopUp;  //寮瑰嚭绐椾綋
         CurrentUIType.UIForm_LucencyType = UIFormLucenyType.Translucence;
         CurrentUIType.UIForms_ShowMode = UIFormShowMode.ReverseChange;
 

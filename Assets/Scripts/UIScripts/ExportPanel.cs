@@ -14,15 +14,15 @@ public class ExportPanel : VBaseUIForm
     public InputField inputField;
     public Button exportBtn;
     public Text tips;
-    //Ñ§ºÅ
+    //å­¦å·
     private string stuNum;
     private void Awake()
     {
-        //´°ÌåĞÔÖÊ
-        CurrentUIType.UIForms_Type = UIFormType.PopUp;  //µ¯³ö´°Ìå
+        //çª—ä½“æ€§è´¨
+        CurrentUIType.UIForms_Type = UIFormType.PopUp;  //å¼¹å‡ºçª—ä½“
         CurrentUIType.UIForm_LucencyType = UIFormLucenyType.Translucence;
         CurrentUIType.UIForms_ShowMode = UIFormShowMode.ReverseChange;
-        //×¢²áÍË³ö°´Å¥ÊÂ¼ş
+        //æ³¨å†Œé€€å‡ºæŒ‰é’®äº‹ä»¶
         exitBtn.onClick.AddListener(() => { CloseUIForm(); });
         inputField.onEndEdit.AddListener(content => 
         {
@@ -34,18 +34,18 @@ public class ExportPanel : VBaseUIForm
             {
         
                 tips.color = new Color(209f/255, 27f/255, 46f/255);
-                tips.text = "µ¼³öÎ´Íê³É£¬ÇëÊäÈëÑ§ºÅ";
+                tips.text = "å¯¼å‡ºæœªå®Œæˆï¼Œè¯·è¾“å…¥å­¦å·";
             }
-            //µ¼³ö
+            //å¯¼å‡º
             else
             {
                 //string exportStr = "";
-                //exportStr += $"Ñ§ºÅ£º{stuNum}\n";
-                //exportStr += $"½ÇÉ«Ãû£º{Global.name}\n";
-                //exportStr += $"ÓÎÏ·Ê±³¤£º{GameSaveMgr.ConvertTimeStr(Global.gameTime)}\n";
-                //exportStr += $"µ¼³öÊ±¼ä£º{DateTime.Now}\n";
-                //exportStr += $"ÒÑ·ÃÎÊ£º{Global.dialogCollection.Count}ÈË\n";
-                //exportStr += $"ÒÑĞ´ĞèÇó£º{Global.requirements.Count}Ìõ\n";
+                //exportStr += $"å­¦å·ï¼š{stuNum}\n";
+                //exportStr += $"è§’è‰²åï¼š{Global.name}\n";
+                //exportStr += $"æ¸¸æˆæ—¶é•¿ï¼š{GameSaveMgr.ConvertTimeStr(Global.gameTime)}\n";
+                //exportStr += $"å¯¼å‡ºæ—¶é—´ï¼š{DateTime.Now}\n";
+                //exportStr += $"å·²è®¿é—®ï¼š{Global.dialogCollection.Count}äºº\n";
+                //exportStr += $"å·²å†™éœ€æ±‚ï¼š{Global.requirements.Count}æ¡\n";
                 //int num = 1;
                 //foreach (string req in Global.requirements.Values)
                 //{
@@ -55,8 +55,8 @@ public class ExportPanel : VBaseUIForm
                 //File.WriteAllText(Environment.GetFolderPath(Environment.SpecialFolder.DesktopDirectory) + $"/{stuNum}", GameSaveMgr.Encrypt(exportStr), Encoding.UTF8);
                 //File.WriteAllText(Environment.CurrentDirectory + $"/{stuNum}", GameSaveMgr.Encrypt(exportStr), Encoding.UTF8);
                 tips.color = new Color(50f / 255, 156f / 255, 50f / 255);
-                tips.text = "µ¼³ö³É¹¦";
-                Global.AddDetailedLog($"µ¼³ö³É¹û {stuNum}");
+                tips.text = "å¯¼å‡ºæˆåŠŸ";
+                Global.AddDetailedLog($"å¯¼å‡ºæˆæœ {stuNum}");
                 Invoke("closePanel", 2.2f);
                 //print(exportStr);
             }

@@ -7,20 +7,20 @@ using UnityEngine.UI;
 public class InputFieldScaler : MonoBehaviour, ILayoutElement
 {
 
-    //[Tooltip("ÊäÈë¿òµÄ×ÖÌå´óĞ¡£¬InputFieldµÄ´óĞ¡»áËæ×ÖÌå´óĞ¡¸Ä±ä¸ß¶È")]
+    //[Tooltip("è¾“å…¥æ¡†çš„å­—ä½“å¤§å°ï¼ŒInputFieldçš„å¤§å°ä¼šéšå­—ä½“å¤§å°æ”¹å˜é«˜åº¦")]
     [HideInInspector]
     public int fontSize = 20;
 
-    //[Tooltip("ÊÇ·ñ±£³ÖInputFieldµÄ¿í¶È²»±ä")]
+    //[Tooltip("æ˜¯å¦ä¿æŒInputFieldçš„å®½åº¦ä¸å˜")]
     [HideInInspector]
     public bool fixedWidth = true;
 
-    //[Tooltip("ÊÇ·ñ²»ÏŞÖÆInputFieldµÄ¿í¶È")]
+    //[Tooltip("æ˜¯å¦ä¸é™åˆ¶InputFieldçš„å®½åº¦")]
     [HideInInspector]
     public bool keepInitWidthSize = true;
 
     //[SerializeField]
-    //[Tooltip("Ìá¸ßLayout¼ÆËãÓÅÏÈ¼¶£¬Òª±ÈInputField´ó ÕâÀïÉèÎª1")]
+    //[Tooltip("æé«˜Layoutè®¡ç®—ä¼˜å…ˆçº§ï¼Œè¦æ¯”InputFieldå¤§ è¿™é‡Œè®¾ä¸º1")]
     private int priority = 1;
 
     public virtual float minWidth

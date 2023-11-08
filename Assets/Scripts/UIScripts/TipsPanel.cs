@@ -8,7 +8,7 @@ public class TipsPanel : VBaseUIForm
 {
     private void Awake()
     {
-        CurrentUIType.UIForms_Type = UIFormType.PopUp;  //µ¯³ö´°Ìå
+        CurrentUIType.UIForms_Type = UIFormType.PopUp;  //å¼¹å‡ºçª—ä½“
         CurrentUIType.UIForm_LucencyType = UIFormLucenyType.Translucence;
         CurrentUIType.UIForms_ShowMode = UIFormShowMode.ReverseChange;
         RigisterButtonObjectEvent("ExitBtn",
