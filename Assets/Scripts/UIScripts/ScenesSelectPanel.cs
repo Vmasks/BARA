@@ -7,7 +7,7 @@ using UnityEngine.UI;
 public class ScenesSelectPanel : BaseUIForm
 {
     // 图书馆场景，健身房场景，自己创建的场景
-    public Button libBtn, gymBtn, myBtn;
+    public Button libBtn, gymBtn, ucdBtn, MyScenarioBtn;
     private void Awake()
     {
         //锟斤拷锟斤拷锟斤拷锟斤拷锟�
@@ -27,9 +27,14 @@ public class ScenesSelectPanel : BaseUIForm
             GameMgr.GetInstance().sceneName = "Gym";
             OpenUIForm("CreatePlayerPanel");
         });
-        myBtn.onClick.AddListener(() =>
+        ucdBtn.onClick.AddListener(() =>
         {
             GameMgr.GetInstance().sceneName = "UCD";
+            OpenUIForm("CreatePlayerPanel");
+        });
+        MyScenarioBtn.onClick.AddListener(() =>
+        {
+            GameMgr.GetInstance().sceneName = "MyScenario";
             OpenUIForm("CreatePlayerPanel");
         });
     }
