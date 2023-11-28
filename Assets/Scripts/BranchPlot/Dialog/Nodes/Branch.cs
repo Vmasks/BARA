@@ -10,9 +10,11 @@ public class Branch : Node {
 	public Empty posOutput;
 	[Output]
 	public Empty negOutput;
-	// Use this for initialization
-	public string posDesc;
-	public string negDesc;
+    // Use this for initialization
+    [TextArea]
+    public string posDesc;
+    [TextArea]
+    public string negDesc;
 	protected override void Init() {
 		base.Init();
 		
