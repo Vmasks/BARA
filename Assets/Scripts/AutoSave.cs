@@ -15,7 +15,7 @@ public class AutoSave : MonoBehaviour
         {
             yield return new WaitForSeconds(120.0f);
             GameSaveMgr.GetInstance().AutoSave();
-            //print("±£¥Ê£°");
+            //print("‰øùÂ≠òÔºÅ");
         }
     }
 }
