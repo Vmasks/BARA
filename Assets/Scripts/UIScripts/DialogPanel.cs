@@ -36,6 +36,7 @@ public class DialogPanel : VBaseUIForm
     }
     override public void Display()
     {
+        print(interactiveMethod);
         base.Display();
         avator1 = Resources.Load<Sprite>("avator/" + GameMgr.GetInstance().mainCharacter);
         avator2 = Resources.Load<Sprite>("avator/" + GameMgr.GetInstance().sceneName + "/" + Global.currentInteractNPC.name);
@@ -58,6 +59,9 @@ public class DialogPanel : VBaseUIForm
             textList.Clear();
             textList.Add("B");
             textList.Add("...");
+            textFinished = true;
+            CloseUIForm();
+            return;
         }
         textFinished = true;
         // print("haha");
