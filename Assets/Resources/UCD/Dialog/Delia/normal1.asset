@@ -258,7 +258,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d8cc07a6029577d458667818932308e4, type: 3}
-  m_Name: DialogGraphExample
+  m_Name: normal1
   m_EditorClassIdentifier: 
   nodes:
   - {fileID: -7138073863808311107}

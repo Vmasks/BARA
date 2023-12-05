@@ -23,10 +23,5 @@ public class MainPanel : VBaseUIForm
                 OpenUIForm("PausePanel");
                 Global.AddDetailedLog("打开了暂停面板");
             });
-        RigisterButtonObjectEvent("tmpBtn",
-            p =>
-            {
-                OpenUIForm("DialogPanelBranch");
-            });
     }
 }

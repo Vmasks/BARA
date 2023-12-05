@@ -103,6 +103,7 @@ MonoBehaviour:
       _dynamic: 0
   content:
   - "B\u55EF\uFF0C\u90A3\u53EF\u4EE5\u591A\u52A0\u51E0\u4E2A\u63D2\u5EA7\u7535\u6E90\u5417\uFF0C\u73B0\u5728\u7684\u4E0D\u592A\u591F\u7528\u3002"
+  nextState: 
 --- !u!114 &-7042644789028147889
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -116,7 +117,7 @@ MonoBehaviour:
   m_Name: Chat
   m_EditorClassIdentifier: 
   graph: {fileID: 11400000}
-  position: {x: 840, y: -120}
+  position: {x: 888, y: -200}
   ports:
     keys:
     - input
@@ -146,6 +147,7 @@ MonoBehaviour:
   content:
   - "B\u54E6\u54E6\uFF0C\u90A3\u5C31...\u53EF\u4EE5\u901A\u8FC7\u5C0F\u7A0B\u5E8F\u67E5\u770B\u63D2\u5934\u4F7F\u7528\u60C5\u51B5\u5427\uFF0C\u53EF\u4EE5\u5417\uFF1F"
   - "A\u597D\u7684\u597D\u7684\uFF0C\u6211\u8BB0\u4E0B\u6765\u4E86\uFF0C\u8C22\u8C22\u4F60\uFF0C\u540C\u5B66~"
+  nextState: 
 --- !u!114 &-5632653425348291927
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -159,7 +161,7 @@ MonoBehaviour:
   m_Name: Branch
   m_EditorClassIdentifier: 
   graph: {fileID: 11400000}
-  position: {x: 104, y: -24}
+  position: {x: 88, y: 24}
   ports:
     keys:
     - input
@@ -182,7 +184,10 @@ MonoBehaviour:
       _node: {fileID: -5632653425348291927}
       _typeQualifiedName: Empty, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
         PublicKeyToken=null
-      connections: []
+      connections:
+      - fieldName: input
+        node: {fileID: 7641674954594073559}
+        reroutePoints: []
       _direction: 1
       _connectionType: 0
       _typeConstraint: 0
@@ -201,6 +206,48 @@ MonoBehaviour:
       _dynamic: 0
   posDesc: "\uFF08\u8FD8\u662F\u6682\u65F6\u5148\u4E0D\u8981\u6253\u6270\u4ED6\u4E86...\uFF09"
   negDesc: "\u5F88\u5FEB\u7684\uFF0C\u540C\u5B66\uFF0C\u7B80\u5355\u8BF4\u4E00\u4E0B\u3002"
+--- !u!114 &-3035295029141794952
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c09f61b4be5cce04c9e98c250e97d8ff, type: 3}
+  m_Name: Chat
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: 904, y: 120}
+  ports:
+    keys:
+    - input
+    - output
+    values:
+    - _fieldName: input
+      _node: {fileID: -3035295029141794952}
+      _typeQualifiedName: Empty, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null
+      connections:
+      - fieldName: negOutput
+        node: {fileID: -2623482424071291574}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: output
+      _node: {fileID: -3035295029141794952}
+      _typeQualifiedName: Empty, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null
+      connections: []
+      _direction: 1
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+  content: []
+  nextState: normal1
 --- !u!114 &-2623482424071291574
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -249,7 +296,10 @@ MonoBehaviour:
       _node: {fileID: -2623482424071291574}
       _typeQualifiedName: Empty, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
         PublicKeyToken=null
-      connections: []
+      connections:
+      - fieldName: input
+        node: {fileID: -3035295029141794952}
+        reroutePoints: []
       _direction: 1
       _connectionType: 0
       _typeConstraint: 0
@@ -298,6 +348,7 @@ MonoBehaviour:
       _dynamic: 0
   content:
   - "A\u540C\u5B66\u4F60\u597D~"
+  nextState: 
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -308,7 +359,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d8cc07a6029577d458667818932308e4, type: 3}
-  m_Name: New Dialog Graph
+  m_Name: normal
   m_EditorClassIdentifier: 
   nodes:
   - {fileID: -335426730118575676}
@@ -322,6 +373,8 @@ MonoBehaviour:
   - {fileID: -2623482424071291574}
   - {fileID: 6160444616987096352}
   - {fileID: -7042644789028147889}
+  - {fileID: -3035295029141794952}
+  - {fileID: 7641674954594073559}
 --- !u!114 &4596458327769128974
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -367,6 +420,7 @@ MonoBehaviour:
       _dynamic: 0
   content:
   - "B\u55EF\uFF0C\u65B9\u4FBF\uFF0C\u662F\u54EA\u79CD\u9700\u6C42\u5462\uFF1F"
+  nextState: 
 --- !u!114 &5727990512346737544
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -409,6 +463,7 @@ MonoBehaviour:
       _dynamic: 0
   content:
   - "B\u54E6\u54E6\uFF0C\u90A3\u6211\u60F3\uFF0C\u53EF\u4E0D\u53EF\u4EE5\u628A\u6559\u5BA4\u5185\u4F7F\u7528\u7684\u63D2\u5EA7\u6570\u91CF\u5B9E\u65F6\u663E\u793A\u51FA\u6765\uFF1F"
+  nextState: 
 --- !u!114 &6160444616987096352
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -422,7 +477,7 @@ MonoBehaviour:
   m_Name: Chat
   m_EditorClassIdentifier: 
   graph: {fileID: 11400000}
-  position: {x: 360, y: 56}
+  position: {x: 376, y: 264}
   ports:
     keys:
     - input
@@ -451,6 +506,7 @@ MonoBehaviour:
       _dynamic: 0
   content:
   - B......
+  nextState: 
 --- !u!114 &6738046840665539543
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -496,6 +552,7 @@ MonoBehaviour:
       _dynamic: 0
   content:
   - "B\u62B1\u6B49\uFF0C\u6211\u73B0\u5728\u4E0D\u662F\u5F88\u65B9\u4FBF\u3002"
+  nextState: 
 --- !u!114 &6808991151769484907
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -554,3 +611,45 @@ MonoBehaviour:
       _dynamic: 0
   posDesc: "\u540C\u5B66\u4F60\u597D\uFF0C\u6211\u5728\u505A\u4E00\u4E2A\u9700\u6C42\u8C03\u7814\uFF0C\u8BF7\u95EE\u4F60\u73B0\u5728\u65B9\u4FBF\u5417\uFF1F"
   negDesc: "\u540C\u5B66\u4F60\u597D\uFF0C\u6211\u5728\u505A\u4E00\u4E2A\u5C0F\u7A0B\u5E8F\u5F00\u53D1\u7684\u9700\u6C42\u8C03\u7814\uFF0C\u8BF7\u95EE\u4F60\u6709\u4EC0\u4E48\u53EF\u4EE5\u60F3\u5230\u7684\u9700\u6C42\u5417\uFF1F"
+--- !u!114 &7641674954594073559
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c09f61b4be5cce04c9e98c250e97d8ff, type: 3}
+  m_Name: Chat
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: 360, y: 56}
+  ports:
+    keys:
+    - input
+    - output
+    values:
+    - _fieldName: input
+      _node: {fileID: 7641674954594073559}
+      _typeQualifiedName: Empty, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null
+      connections:
+      - fieldName: posOutput
+        node: {fileID: -5632653425348291927}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: output
+      _node: {fileID: 7641674954594073559}
+      _typeQualifiedName: Empty, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null
+      connections: []
+      _direction: 1
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+  content: []
+  nextState: normal1
