@@ -5,7 +5,7 @@ using UnityEngine.UI;
 using XNode;
 using SUIFW;
 
-public class DialogPanelBranch : BaseUIForm
+public class DialogPanelBranch : VBaseUIForm
 {
     public DialogGraph graph;
     private GameObject dialogPanel;
@@ -17,10 +17,9 @@ public class DialogPanelBranch : BaseUIForm
     public Text dialogContent;
     public Sprite sp1, sp2;
     public string name1, name2;
-    private float textSpeed = 0.05f;
+    private float textSpeed = 0.07f;
     private bool canContinue = false;
     private bool sentenceFinished = false;
-    private bool playerMadeChoice = false;
     private Node currentNode = null;
     // 找到第一个节点，即没有入口为空的节点
     private Node GetStartNode()
@@ -47,12 +46,12 @@ public class DialogPanelBranch : BaseUIForm
         //sp.sprite = sp2;
         //playerName.text = name2;
         posBtn.onClick.AddListener(() => {
-            playerMadeChoice = true;
+            canContinue = true;
             Branch node = currentNode as Branch;
             currentNode = node.MoveNext(true);
         });
         negBtn.onClick.AddListener(() => {
-            playerMadeChoice = true;
+            canContinue = true;
             Branch node = currentNode as Branch;
             currentNode = node.MoveNext(false);
         });
@@ -96,12 +95,12 @@ public class DialogPanelBranch : BaseUIForm
             {
                 dialogPanel.SetActive(false);
                 branchPanel.SetActive(true);
-                playerMadeChoice = false;
+                canContinue = false;
                 Branch branchNode = currentNode as Branch;
                 posText.text = branchNode.posDesc;
                 negText.text = branchNode.negDesc;
                 // 等待玩家做出选择
-                while (!playerMadeChoice) {
+                while (!canContinue) {
                     yield return null;
                 }                
             }

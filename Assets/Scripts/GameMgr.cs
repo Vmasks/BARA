@@ -28,6 +28,7 @@ public class GameMgr : MonoBehaviour
     // 载入场景, 开始游戏
     public void StartGame()
     {
+        // 根据场景名加载不同场景，并将主角放到不同位置
         if (sceneName == "Gym")
         {
             SceneManager.LoadScene("gym1");

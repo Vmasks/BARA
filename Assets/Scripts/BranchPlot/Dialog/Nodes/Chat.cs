@@ -10,7 +10,7 @@ public class Chat : Node {
 	public Empty output;
 	[TextArea]
 	public List<string> content;
-	//public string nextState = null;
+	public string nextState = null;
 
 	// Use this for initialization
 	protected override void Init() {
