@@ -1,1 +1,1 @@
-bothor 60 normal
+init 60 end

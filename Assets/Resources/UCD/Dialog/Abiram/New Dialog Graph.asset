@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8cc07a6029577d458667818932308e4, type: 3}
+  m_Name: New Dialog Graph
+  m_EditorClassIdentifier: 
+  nodes:
+  - {fileID: 5592276149141966647}
+--- !u!114 &5592276149141966647
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c09f61b4be5cce04c9e98c250e97d8ff, type: 3}
+  m_Name: Chat
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -344, y: -200}
+  ports:
+    keys:
+    - input
+    - output
+    values:
+    - _fieldName: input
+      _node: {fileID: 5592276149141966647}
+      _typeQualifiedName: Empty, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null
+      connections: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: output
+      _node: {fileID: 5592276149141966647}
+      _typeQualifiedName: Empty, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null
+      connections: []
+      _direction: 1
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+  content:
+  - "A\r\n\u540C\u5B66\u60A8\u597D\uFF0C\u6211\u4EEC\u6B63\u5728\u505A\u4E00\u4E2A\u5173\u4E8E\u6559\u5B66\u697C\u5E94\u7528\u670D\u52A1\u7A0B\u5E8F\u7684\u9700\u6C42\u8C03\u7814\uFF0C\u8BF7\u95EE\u6709\u5BF9exchange
+    room\u6709\u4EC0\u4E48\u60F3\u63D0\u7684\u610F\u89C1\u561B\uFF1F"
+  - "B\r\n\u6211\u5E0C\u671B...\u5C31\u662F\u80FD\u5426\u6709\u4E2A\u529F\u80FD\u53EF\u4EE5\u8BA9\u6211\u770B\u770B\u8FD9\u91CC\u6709\u51E0\u4E2A\u7A7A\u4F59\u7684\u684C\u5B50\uFF0C\u56E0\u4E3A\u8FD9\u91CC\u7684\u73AF\u5883\u6BD4\u8D77\u6559\u5BA4\u8FD8\u662F\u66F4\u9002\u5408\u5C0F\u7EC4\u8BA8\u8BBA\u7684\uFF0C\u5982\u679C\u6CA1\u6709\u7A7A\u4F59\u7684\u8BDD\u6211\u4EEC\u5C31\u53EF\u4EE5\u6539\u5929\u518D\u5F00\u4F1A\uFF0C\u8FD9\u6837\u80FD\u8282\u7701\u66F4\u591A\u7684\u65F6\u95F4\u3002"
+  - "A\r\n\u597D\u7684\u597D\u7684\uFF0C\u4E86\u89E3\u4E86\uFF0C\u67E5\u770B\u5269\u4F59\u5706\u684C\u6570\u91CF\u5BF9\u53ED\uFF0C\u6211\u8BB0\u4E0B\u4E86\uFF0C\u8C22\u8C22\u540C\u5B66\u3002"
+  nextState: 

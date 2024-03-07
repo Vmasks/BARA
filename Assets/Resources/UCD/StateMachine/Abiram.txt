@@ -1,1 +1,1 @@
-bothor 45 normal
+init 45 end
